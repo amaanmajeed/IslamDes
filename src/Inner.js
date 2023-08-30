@@ -6,7 +6,6 @@ import SingleVideoPage from './Pages/SingleVideoPage';
 import Movies from './Pages/Movies';
 
 export default function Inner() {
-  window.scrollTo(0, 0);
   return (
     <>
       <Routes>

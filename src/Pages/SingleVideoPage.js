@@ -5,6 +5,7 @@ import React, { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 
 export default function SingleVideoPage() {
+    window.scrollTo(0, 0);
     const { videoid } = useParams();
     const [videoDetail, setvideoDetail] = useState(1);
 
