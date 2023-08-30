@@ -43,7 +43,6 @@ export default function MovieBanner(props) {
                     <div className="gen-movie-meta-holder">
                         <ul>
                             <li>{props.time}</li>
-                            <li><a href="animation.html"><span>{props.category}</span></a></li>
                         </ul>
                     </div>
                 </div>

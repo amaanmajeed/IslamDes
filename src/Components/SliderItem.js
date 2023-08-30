@@ -53,9 +53,6 @@ export default function SliderItem(props) {
                     <div className="gen-movie-meta-holder">
                         <ul>
                             <li>{props.time}</li>
-                            <li>
-                                <a href="action.html"><span>{props.category}</span></a>
-                            </li>
                         </ul>
                     </div>
                     </div>
