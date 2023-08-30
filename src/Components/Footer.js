@@ -14,7 +14,7 @@ export default function Footer() {
                      <div className="widget">
                         <div className="row">
                            <div className="col-sm-12">
-                              <img src="images/logo-1.png" className="gen-footer-logo" alt="gen-footer-logo"/>
+                              <img src="http://localhost:3000/images/logo-1.png" className="gen-footer-logo" alt="gen-footer-logo" />
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                               <ul className="social-link">
                                  <li><a href="/" className="facebook"><i className="fab fa-facebook-f"></i></a></li>
@@ -71,10 +71,10 @@ export default function Footer() {
                            <div className="col-sm-12">
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                               <a href="/">
-                                 <img src="images/Playstore.png" className="gen-playstore-logo" alt="playstore"/>
+                                 <img src="http://localhost:3000/images/Playstore.png" className="gen-playstore-logo" alt="playstore"/>
                               </a>
                               <a href="/">
-                                 <img src="images/AppStore.png" className="gen-appstore-logo" alt="appstore"/>
+                                 <img src="http://localhost:3000/images/AppStore.png" className="gen-appstore-logo" alt="appstore"/>
                               </a>
                            </div>
                         </div>
