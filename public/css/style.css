@@ -3650,9 +3650,9 @@ OWL Carousel
     text-indent: inherit;
     cursor: pointer;
     text-align: center;
-    font-size: 32px;
+    font-size: 50px !important;
     position: absolute;
-    top: 0;
+    top: -55px;
     left: -22.5px;
     line-height: 1;
     padding: 0;
@@ -3670,9 +3670,9 @@ OWL Carousel
     text-indent: inherit;
     cursor: pointer;
     text-align: center;
-    font-size: 32px;
+    font-size: 50px !important;
     position: absolute;
-    top: 0;
+    top: -55px;
     right: -22.5px;
     line-height: 1;
     padding: 0;
