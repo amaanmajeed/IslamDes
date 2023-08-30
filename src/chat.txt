@@ -1,0 +1,54 @@
+Inner.js
+
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
+import Home from './Pages/Home';
+import SingleVideoPage from './Pages/SingleVideoPage';
+
+const Stack = createNativeStackNavigator();
+
+export default function Inner() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator initialRouteName="Home">
+        <Stack.Screen name="Home" component={Home} />
+        <Stack.Screen name="SingleVideoPage" component={SingleVideoPage} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}
+
+
+----
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
+import Home from './Pages/Home';
+import SingleVideoPage from './Pages/SingleVideoPage';
+
+const Stack = createNativeStackNavigator();
+
+export default function Inner() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator initialRouteName="Home">
+        <Stack.Screen name="Home" component={Home} />
+        <Stack.Screen name="SingleVideoPage" component={SingleVideoPage} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}
+
+----
+
+<Link to="/video">Movies</Link>
+to 
+import React from 'react';
+import { View, Text, TouchableOpacity } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
+<TouchableOpacity onPress={() => navigation.navigate('SingleVideoPage')}>
+
+
