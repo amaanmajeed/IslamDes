@@ -48,11 +48,11 @@ export default function SingleVideoPage() {
                                         <div className="col-lg-12">
                                             <div className="gen-load-more-button">
                                                 <div className="gen-btn-container">
-                                                    <a className="gen-button gen-button-loadmore" href="/">
+                                                    {/* <a className="gen-button gen-button-loadmore" href="/">
                                                         <span className="button-text">Load More</span>
                                                         <span className="loadmore-icon" style={{display: "none"}}><i
                                                                 className="fa fa-spinner fa-spin"></i></span>
-                                                    </a>
+                                                    </a> */}
                                                 </div>
                                             </div>
                                         </div>
