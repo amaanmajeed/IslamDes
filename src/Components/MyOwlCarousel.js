@@ -1,7 +1,8 @@
 import React from 'react';
-import OwlItem from './OwlItem';
+import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
+import OwlItem from './OwlItem';
 
 export default function MyOwlCarousel() {
    const OwlList = [
@@ -19,34 +20,21 @@ export default function MyOwlCarousel() {
     ]
   return (
       <>
-      {/* owl-carousel Banner Start */}
-    <section className="pt-0 pb-0">
-       <div className="container-fluid px-0">
-          <div className="row no-gutters">
-             <div className="col-12">
-                <div className="gen-banner-movies banner-style-2">
-                   <div className="owl-carousel owl-loaded owl-drag" data-dots="false" data-nav="true" data-desk_num="1"
-                      data-lap_num="1" data-tab_num="1" data-mob_num="1" data-mob_sm="1" data-autoplay="true"
-                      data-loop="true" data-margin="0">
-                          
+         <section className="pt-0 pb-0">
+            <div className="container-fluid px-0">
+               <div className="row no-gutters">
+                  <div className="col-12">
+                     <div className="gen-banner-movies banner-style-2">
+                        <OwlCarousel className='owl-theme' items={1} loop margin={10} nav>
                            {OwlList.map((data, index) => (
                               <OwlItem key={index} image={data.image} tagLine={data.tagLine} name={data.name} rating={data.rating} movieRating={data.movieRating} description={data.description} cast={data.cast} genre={data.genre} tag={data.tag}/>
                            ))}
-
-                      </div>
-                   </div>
-                </div>
-             </div>
-          </div>
-    </section>
-    
-        {/* owl-carousel Banner End */}
-        
-        {/* <OwlCarousel >
-            {OwlList.map((data, index) => (
-               <OwlItem key={index} image={data.image} tagLine={data.tagLine} name={data.name} rating={data.rating} movieRating={data.movieRating} description={data.description} cast={data.cast} genre={data.genre} tag={data.tag}/>
-            ))}
-         </OwlCarousel> */}
+                        </OwlCarousel>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
       </>
   );
 }

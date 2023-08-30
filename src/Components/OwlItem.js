@@ -43,13 +43,12 @@ export default function OwlItem(props) {
                             <ul className="gen-meta-after-excerpt">
                                 <li><strong>Cast :</strong>{props.cast}</li>
                                 <li>
-                                <strong>Genre :</strong>
-                                <span>{props.genre}</span>
+                                    <strong>Genre :</strong>
+                                    <span>{props.genre}</span>
                                 </li>
                                 <li>
-                                <strong>Tag :</strong>
+                                    <strong>Tag :</strong>
                                     <span>{props.tag}</span>
-                                
                                 </li>
                             </ul>
                         </div>

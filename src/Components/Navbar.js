@@ -11,9 +11,9 @@ export default function Navbar() {
                 <div className="row">
                 <div className="col-lg-12">
                     <nav className="navbar navbar-expand-lg navbar-light">
-                        <a className="navbar-brand" href="/">
+                        <Link className="navbar-brand" href="/">
                             <img className="img-fluid logo" src="http://localhost:3000/images/logo-1.png" alt="streamlab"/>
-                        </a>
+                        </Link>
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             <div id="gen-menu-contain" className="gen-menu-contain">
                             <ul id="gen-main-menu" className="navbar-nav ml-auto">

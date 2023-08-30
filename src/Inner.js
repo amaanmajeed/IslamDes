@@ -6,8 +6,7 @@ import SingleVideoPage from './Pages/SingleVideoPage';
 import Movies from './Pages/Movies';
 
 export default function Inner() {
-  // refresh window when we change route
-
+  window.scrollTo(0, 0);
   return (
     <>
       <Routes>

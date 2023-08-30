@@ -1,23 +1,10 @@
-import MovieBanner from '../MovieBanner';
-import SingleVideo from '../SingleVideo';
+import MovieBanner from '../Components/MovieBanner';
+import SingleVideo from '../Components/SingleVideo';
 import MovieList from '../MovieList.json';
 import React, { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 
 export default function SingleVideoPage() {
-    window.scrollTo(0, 0);
-    // const topVideo = [
-    //     {
-    //         name: "01-EP Omar Series--pehli wahi/ First Revelation",
-    //         image: "../images/background/asset-5.jpg",
-    //         time: "37mins 34secs",
-    //         videoid: "x8nk0qv",
-    //         episode: 1
-    //     },
-    // ]
-
-    // let { productId } = useParams();
-
     const { videoid } = useParams();
     const [videoDetail, setvideoDetail] = useState(1);
 

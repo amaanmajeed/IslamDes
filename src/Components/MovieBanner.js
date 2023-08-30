@@ -1,5 +1,5 @@
 import React from 'react';
-import MovieList from './MovieList.json'
+import MovieList from '../MovieList.json'
 
 export default function MovieBanner(props) {
   return (
