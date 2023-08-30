@@ -18,7 +18,7 @@ export default function Slider() {
                <div className="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                   <div className="gen-movie-action">
                      <div className="gen-btn-container text-right">
-                        <Link className='gen-button gen-button-flat' to="video/1">
+                        <Link className='gen-button gen-button-flat' to="/movies">
                            <span className="text">More Videos</span>
                         </Link>
                      </div>

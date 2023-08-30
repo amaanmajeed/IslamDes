@@ -31,7 +31,7 @@ Design and Developed by: Gentechtree.com
         /*------------------------
                 Search Button
         --------------------------*/
-        jQuery('#gen-seacrh-btn').on('click', function() {
+        jQuery('#gen-search-btn').on('click', function() {
             jQuery('.gen-search-form').slideToggle();
             jQuery('.gen-search-form').toggleClass('gen-form-show');
             if (jQuery('.gen-search-form').hasClass("gen-form-show")) {
