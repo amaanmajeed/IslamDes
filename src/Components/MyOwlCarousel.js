@@ -7,15 +7,15 @@ import OwlItem from './OwlItem';
 export default function MyOwlCarousel() {
    const OwlList = [
         {
-            image: "images/background/asset-1.jpeg",
+            image: "images/background/omer.png",
             tagLine: "Most Viewed",
-            name: "King of Skull",
-            rating: "12A",
-            movieRating: "0",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page The point of using Lorem Streamlab.",
-            cast: "Anna Romanson,Robert Romanson",
-            genre: "Action, Annimation, Family",
-            tag: "4K Ultra ,Brother ,Dubbing ,Premieres"
+            name: "Omer Series",
+            rating: "16+",
+            movieRating: "9.3",
+            description: "A 30-episode series showcasing the various events during the life of Umar Ibn Al-Khattab from his pre-Islamic days till his assassination.",
+            cast: "Samer Ismail, Ghassan Massoud, Ghanem Zrelli ",
+            genre: "Biography, drama, religion, history, serial",
+            tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
         }
     ]
   return (

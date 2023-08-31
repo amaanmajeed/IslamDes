@@ -11,7 +11,7 @@ export default function OwlItem(props) {
                     <div className="col-xl-6">
                     <div className="gen-front-image">
                         <img src={props.image} alt="owl-carousel-banner"/>
-                        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" className="playBut popup-youtube popup-vimeo popup-gmaps">
+                        <a href="http://localhost:3000/video/1" className="playBut popup-youtube popup-vimeo popup-gmaps">
                             {/* Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In */}
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="213.7px" height="213.7px" viewBox="0 0 213.7 213.7"
                                 enableBackground="new 0 0 213.7 213.7" xmlSpace="preserve">
@@ -20,7 +20,7 @@ export default function OwlItem(props) {
                                 <circle className="circle" id="XMLID_18_" fill="none" strokeWidth="7" strokeLinecap="round"
                                         strokeLinejoin="round" strokeMiterlimit="10" cx="106.8" cy="106.8" r="103.3"></circle>
                             </svg>
-                            <span>Watch Trailer</span>
+                            <span>Watch Series</span>
                         </a>
                     </div>
                     </div>
