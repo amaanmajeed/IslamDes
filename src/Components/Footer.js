@@ -14,7 +14,10 @@ export default function Footer() {
                      <div className="widget">
                         <div className="row">
                            <div className="col-sm-12">
-                              <img src="http://localhost:3000/images/logo-1.png" className="gen-footer-logo" alt="gen-footer-logo" />
+                              <div className="navbar-brand d-flex align-items-center">
+                                 <img className='footer-logo' src="http://localhost:3000/images/favicon.png" alt="Logo" />
+                                 <h4 className='px-3'>IslamDes</h4>
+                              </div>
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                               <ul className="social-link">
                                  <li><Link to="/" className="facebook"><i className="fab fa-facebook-f"></i></Link></li>

@@ -10,7 +10,7 @@ export default function SliderHorizontal() {
             episodes: 3,
             year: 2013,
             genre: "Comedy",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page when Streamlab at its layout Streamlab."
+            description: "IslamDes is a long established fact that a reader will be distracted by the readable content of a page when IslamDes at its layout IslamDes."
         },
         {
             name: "Command in your hand",
@@ -19,7 +19,7 @@ export default function SliderHorizontal() {
             episodes: 3,
             year: 2013,
             genre: "Comedy",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page when Streamlab at its layout Streamlab."
+            description: "IslamDes is a long established fact that a reader will be distracted by the readable content of a page when IslamDes at its layout IslamDes."
         },
         {
             name: "Command in your hand",
@@ -28,7 +28,7 @@ export default function SliderHorizontal() {
             episodes: 3,
             year: 2013,
             genre: "Comedy",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page when Streamlab at its layout Streamlab."
+            description: "IslamDes is a long established fact that a reader will be distracted by the readable content of a page when IslamDes at its layout IslamDes."
         },
         {
             name: "Command in your hand",
@@ -37,7 +37,7 @@ export default function SliderHorizontal() {
             episodes: 3,
             year: 2013,
             genre: "Comedy",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page when Streamlab at its layout Streamlab."
+            description: "IslamDes is a long established fact that a reader will be distracted by the readable content of a page when IslamDes at its layout IslamDes."
         },
         
     ]

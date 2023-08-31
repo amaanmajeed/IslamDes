@@ -3109,6 +3109,9 @@ header#gen-header.gen-header-style-1 .gen-bottom-header .navbar .navbar-nav li.a
 Footer
 ================================================*/
 
+.footer-logo {
+    width: 50px;
+}
 footer#gen-footer {
     background: var(--black-color);
     display: inline-block;

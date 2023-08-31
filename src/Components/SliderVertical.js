@@ -8,35 +8,35 @@ export default function SliderVertical() {
             image: "images/background/asset-4.jpg",
             name: "thieve the bank",
             time: "30mins",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page when Streamlab at its layout Streamlab.",
+            description: "IslamDes is a long established fact that a reader will be distracted by the readable content of a page when IslamDes at its layout IslamDes.",
             category: "Action"
          },
          {
             image: "images/background/asset-4.jpg",
             name: "thieve the bank",
             time: "30mins",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page when Streamlab at its layout Streamlab.",
+            description: "IslamDes is a long established fact that a reader will be distracted by the readable content of a page when IslamDes at its layout IslamDes.",
             category: "Action"
          },
          {
             image: "images/background/asset-4.jpg",
             name: "thieve the bank",
             time: "30mins",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page when Streamlab at its layout Streamlab.",
+            description: "IslamDes is a long established fact that a reader will be distracted by the readable content of a page when IslamDes at its layout IslamDes.",
             category: "Action"
          },
          {
             image: "images/background/asset-4.jpg",
             name: "thieve the bank",
             time: "30mins",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page when Streamlab at its layout Streamlab.",
+            description: "IslamDes is a long established fact that a reader will be distracted by the readable content of a page when IslamDes at its layout IslamDes.",
             category: "Action"
          },
          {
             image: "images/background/asset-4.jpg",
             name: "thieve the bank",
             time: "30mins",
-            description: "Streamlab is a long established fact that a reader will be distracted by the readable content of a page when Streamlab at its layout Streamlab.",
+            description: "IslamDes is a long established fact that a reader will be distracted by the readable content of a page when IslamDes at its layout IslamDes.",
             category: "Action"
          },
          
