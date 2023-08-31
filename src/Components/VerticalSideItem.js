@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function VerticalSideItem(props) {
   return (
@@ -11,7 +12,7 @@ export default function VerticalSideItem(props) {
                 <div className="gen-movie-meta-holder">
                     <ul>
                         <li>{props.time}</li>
-                        <li><a href="action.html">{props.category}</a></li>
+                        <li><Link to="action.html">{props.category}</Link></li>
                     </ul>
                 </div>
             </div>

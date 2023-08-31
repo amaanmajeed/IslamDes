@@ -20,21 +20,19 @@ export default function SliderItem(props) {
                             <li className="share top">
                                 <i className="fa fa-share-alt"></i>
                                 <ul className="submenu">
-                                <li><a href="/" className="facebook"><i className="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li><a href="/" className="facebook"><i className="fab fa-instagram"></i></a>
-                                </li>
-                                <li><a href="/" className="facebook"><i className="fab fa-twitter"></i></a></li>
+                                <li><Link to="/" className="facebook"><i className="fab fa-facebook-f"></i></Link></li>
+                                <li><Link to="/" className="facebook"><i className="fab fa-instagram"></i></Link></li>
+                                <li><Link to="/" className="facebook"><i className="fab fa-twitter"></i></Link></li>
                                 </ul>
                             </li>
                         </ul>
                         <div className="movie-actions--link_add-to-playlist dropdown">
-                            <a className="dropdown-toggle" href="/" data-toggle="dropdown"><i
-                                className="fa fa-plus"></i></a>
+                            <Link to="/" className="dropdown-toggle" data-toggle="dropdown"><i
+                                className="fa fa-plus"></i></Link>
                             <div className="dropdown-menu mCustomScrollbar">
                                 <div className="mCustomScrollBox">
                                 <div className="mCSB_container">
-                                    <a className="login-link" href="register.html">Sign in to add this movie to a playlist.</a>
+                                    <Link className="login-link" to="/">Sign in to add this movie to a playlist.</Link>
                                 </div>
                                 </div>
                             </div>
@@ -48,7 +46,7 @@ export default function SliderItem(props) {
                     </div>
                     <div className="gen-info-contain">
                     <div className="gen-movie-info">
-                        <h3><a href="single-movie.html">{props.name}</a></h3>
+                        <h3><Link to="single-movie.html">{props.name}</Link></h3>
                     </div>
                     <div className="gen-movie-meta-holder">
                         <ul>

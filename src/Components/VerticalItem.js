@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function VerticalItem(props) {
 
@@ -16,10 +17,10 @@ export default function VerticalItem(props) {
                         </div>
                         <div className="gen-movie-action">
                             <div className="gen-btn-container button-1">
-                            <a className="gen-button" href="/" tabIndex="0">
+                            <Link to="/" className="gen-button" tabIndex="0">
                                 <i aria-hidden="true" className="ion ion-play"></i>
                                 <span className="text">Play Now</span>
-                            </a>
+                            </Link>
                             </div>
                         </div>
                     </div>

@@ -38,7 +38,7 @@ export default function Navbar() {
                         </div>
                         <div className="gen-header-info-box">
                             <div className="gen-menu-search-block">
-                            <a href="/" id="gen-search-btn"><i className="fa fa-search"></i></a>
+                            <Link to="/" id="gen-search-btn"><i className="fa fa-search"></i></Link>
                             <div className="gen-search-form">
                                 <form role="search" method="get" className="search-form" action="#">
                                     <label>

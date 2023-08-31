@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function SingleVideo(props) {
     return (
@@ -17,7 +18,7 @@ export default function SingleVideo(props) {
                     <ul>
                         <li>{props.years} years</li>
                         <li>
-                            <a href="/"><span>{props.category}</span></a>
+                            <Link to="/"><span>{props.category}</span></Link>
                         </li>
                         <li>
                             <i className="fas fa-eye">
@@ -33,9 +34,9 @@ export default function SingleVideo(props) {
                 <div className="gen-socail-share mt-0">
                     <h4 className="align-self-center">Social Share :</h4>
                     <ul className="social-inner">
-                        <li><a href="/" className="facebook"><i className="fab fa-facebook-f"></i></a></li>
-                        <li><a href="/" className="facebook"><i className="fab fa-instagram"></i></a></li>
-                        <li><a href="/" className="facebook"><i className="fab fa-twitter"></i></a></li>
+                        <li><Link to="/" className="facebook"><i className="fab fa-facebook-f"></i></Link></li>
+                        <li><Link to="/" className="facebook"><i className="fab fa-instagram"></i></Link></li>
+                        <li><Link to="/" className="facebook"><i className="fab fa-twitter"></i></Link></li>
                     </ul>
                 </div>
             </div>

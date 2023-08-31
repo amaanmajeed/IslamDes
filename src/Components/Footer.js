@@ -17,10 +17,10 @@ export default function Footer() {
                               <img src="http://localhost:3000/images/logo-1.png" className="gen-footer-logo" alt="gen-footer-logo" />
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                               <ul className="social-link">
-                                 <li><a href="/" className="facebook"><i className="fab fa-facebook-f"></i></a></li>
-                                 <li><a href="/" className="facebook"><i className="fab fa-instagram"></i></a></li>
-                                 <li><a href="/" className="facebook"><i className="fab fa-skype"></i></a></li>
-                                 <li><a href="/" className="facebook"><i className="fab fa-twitter"></i></a></li>
+                                 <li><Link to="/" className="facebook"><i className="fab fa-facebook-f"></i></Link></li>
+                                 <li><Link to="/" className="facebook"><i className="fab fa-instagram"></i></Link></li>
+                                 <li><Link to="/" className="facebook"><i className="fab fa-skype"></i></Link></li>
+                                 <li><Link to="/" className="facebook"><i className="fab fa-twitter"></i></Link></li>
                               </ul>
                            </div>
                         </div>
@@ -32,7 +32,7 @@ export default function Footer() {
                         <div className="menu-explore-container">
                            <ul className="menu">
                               <li className="menu-item">
-                                 {/* <a href="index.html" aria-current="page">Home</a> */}
+                                 {/* <Link to="index.html" aria-current="page">Home</Link> */}
                                  <Link to="/video/1">Home</Link>
                               </li>
                               <li className="menu-item"><Link to="/video/1">Movies</Link></li>
@@ -51,7 +51,7 @@ export default function Footer() {
                         <h4 className="footer-title">Company</h4>
                         <div className="menu-about-container">
                            <ul className="menu">
-                              <li className="menu-item"><a href="contact-us.html">Company</a>
+                              <li className="menu-item"><Link to="contact-us.html">Company</Link>
                               </li>
                               <li className="menu-item"><Link to="video/1">Privacy Policy</Link></li>
                               <li className="menu-item"><Link to="video/1">Terms Of Use</Link></li>
@@ -70,12 +70,12 @@ export default function Footer() {
                         <div className="row">
                            <div className="col-sm-12">
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                              <a href="/">
+                              <Link to="/">
                                  <img src="http://localhost:3000/images/Playstore.png" className="gen-playstore-logo" alt="playstore"/>
-                              </a>
-                              <a href="/">
+                              </Link>
+                              <Link to="/">
                                  <img src="http://localhost:3000/images/AppStore.png" className="gen-appstore-logo" alt="appstore"/>
-                              </a>
+                              </Link>
                            </div>
                         </div>
                      </div>
@@ -87,8 +87,7 @@ export default function Footer() {
             <div className="container">
                <div className="row">
                   <div className="col-md-12 align-self-center">
-                     <span className="gen-copyright"><a target="_blank" href="/"> Copyright 2021 stremlab All Rights
-                           Reserved.</a></span>
+                     <span className="gen-copyright"><Link target="_blank" to="/"> Copyright 2021 stremlab All Rights Reserved.</Link></span>
                   </div>
                </div>
             </div>

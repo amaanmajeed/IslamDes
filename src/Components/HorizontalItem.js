@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function HorizontalItem(props) {
   return (
@@ -16,16 +17,16 @@ export default function HorizontalItem(props) {
                             <li>${props.episodes} Episode</li>
                             <li>${props.year}</li>
                             <li>
-                                <a href="/"><span>{props.genre}</span></a>
+                                <Link to="/"><span>{props.genre}</span></Link>
                             </li>
                         </ul>
                         <p>{props.description}</p>
                     </div>
                     <div className="gen-movie-action">
                         <div className="gen-btn-container">
-                            <a href="single-episode.html" className="gen-button gen-button-dark">
+                            <Link to="single-episode.html" className="gen-button gen-button-dark">
                                 <span className="text">Play now</span>
-                            </a>
+                            </Link>
                         </div>
                     </div>
                     </div>
