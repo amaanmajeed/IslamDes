@@ -31,9 +31,9 @@ export default function MovieBanner(props) {
                         </div>
                     </div>
                     <div className="gen-movie-action">
-                        <Link to="video-home.html" className="gen-button">
+                        <div className="gen-button">
                             <i className="fa fa-play"></i>
-                        </Link>
+                        </div>
                     </div>
                 </div>
                 <div className="gen-info-contain">

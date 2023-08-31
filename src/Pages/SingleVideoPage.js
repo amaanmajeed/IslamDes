@@ -10,7 +10,7 @@ export default function SingleVideoPage() {
     const [videoDetail, setvideoDetail] = useState(1);
 
     useEffect(() => {
-        const selectedProduct = MovieList.find(myvideo => myvideo.episode === parseInt(videoid));
+        const selectedProduct = MovieList.find(myvideo => myvideo.episode === videoid);
         setvideoDetail(selectedProduct);
     }, [videoid, MovieList]);
 
