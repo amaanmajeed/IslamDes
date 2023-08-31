@@ -1,6 +1,6 @@
 import MovieBanner from '../Components/MovieBanner';
 import SingleVideo from '../Components/SingleVideo';
-import MovieList from '../MovieList.json';
+import Omer from '../Data/Omer.json';
 import React, { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 
@@ -10,9 +10,9 @@ export default function SingleVideoPage() {
     const [videoDetail, setvideoDetail] = useState(1);
 
     useEffect(() => {
-        const selectedProduct = MovieList.find(myvideo => myvideo.episode === videoid);
+        const selectedProduct = Omer.find(myvideo => myvideo.episode === videoid);
         setvideoDetail(selectedProduct);
-    }, [videoid, MovieList]);
+    }, [videoid]);
 
     console.log('Selected Product Details:', videoDetail);
     
@@ -38,7 +38,7 @@ export default function SingleVideoPage() {
                                     <h5 className="gen-more-title">More Like This</h5>
                                     <div className="row post-loadmore-wrapper">
 
-                                            {MovieList.map((data, index) => (
+                                            {Omer.map((data, index) => (
                                                 <Link className='col-xl-3 col-lg-4 col-md-6' to={`/video/${data.episode}`} key={data.episode}>
                                                       <MovieBanner key={index} name={data.name} image={data.image} time={data.time} videoid={data.videoid} episode={data.episode} />
                                                 </Link>

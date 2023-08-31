@@ -3,7 +3,7 @@ import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 import SliderItem from './SliderItem';
-import MovieList from '../MovieList.json';
+import Omer from '../Data/Omer.json';
 import { Link } from 'react-router-dom';
 
 export default function Slider() {
@@ -41,7 +41,7 @@ export default function Slider() {
                            },
                         }        
                      } dots={false} nav margin={10}>
-                        {MovieList.map((data, index) => (
+                        {Omer.map((data, index) => (
                            <Link className='item' to={`/video/${data.episode}`} key={data.episode}>
                                  <SliderItem key={index} name={data.name} image={data.image} time={data.time} videoid={data.videoid} episode={data.episode} />
                            </Link>

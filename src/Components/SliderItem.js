@@ -39,7 +39,7 @@ export default function SliderItem(props) {
                         </div>
                     </div>
                     <div className="gen-movie-action">
-                        <Link to="/video/1" className="gen-button">
+                        <Link to="/video/O1" className="gen-button">
                             <i className="fa fa-play"></i>
                         </Link>
                     </div>
