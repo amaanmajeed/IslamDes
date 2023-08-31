@@ -39,14 +39,14 @@ export default function SliderItem(props) {
                         </div>
                     </div>
                     <div className="gen-movie-action">
-                        <Link to="/video/O1" className="gen-button">
+                        <div className="gen-button">
                             <i className="fa fa-play"></i>
-                        </Link>
+                        </div>
                     </div>
                     </div>
                     <div className="gen-info-contain">
                     <div className="gen-movie-info">
-                        <h3><Link to="single-movie.html">{props.name}</Link></h3>
+                        <h3><Link>{props.name}</Link></h3>
                     </div>
                     <div className="gen-movie-meta-holder">
                         <ul>

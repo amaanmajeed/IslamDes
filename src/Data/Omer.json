@@ -1,165 +1,27 @@
 [
-        {
-            "name": "01-EP Omar Series--pehli wahi/ First Revelation",
-            "image": "../images/background/asset-5.jpg",
-            "time": "37:34",
-            "videoid": "x8nk0qv",
-            "episode": "O1"
-        },
-        {
-            "name": "02-EP Omar Series--(mola ali ibn abi talib, nimazio pr pathr, amaar ibn yasir, abu talib)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "45:30",
-            "videoid": "x8nk0rv",
-            "episode": "O2"
-        },
-        {
-            "name": "03-EP Omar Series --(walid al mugeera, abu lahab)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:20",
-            "videoid": "x8nk0ta",
-            "episode": "O3"
-        },
-        {
-            "name": "04-EP Omar Series --(hzrt amaar bin yasur or bilal ka waqia)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:23",
-            "videoid": "x8nk0u8",
-            "episode": "O4"
-        },
-        {
-            "name": "05-EP Omar Series --(hzrt abubakr ne gulam azaad krwaye)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:43",
-            "videoid": "x8nk0y6",
-            "episode": "O5"
-        },
-        {
-            "name": "06-EP Omar Series --(hijrat e habsha)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:19",
-            "videoid": "x8nk0z4",
-            "episode": "O6"
-        },
-        {
-            "name": "07-EP Omar Series  --(hzrt hamza or umer ka islam qabol)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:38",
-            "videoid": "x8nk103",
-            "episode": "O7"
-        },
-        {
-            "name": "08-EP Omar Series --(nijashi habsha, shaib e abi talib)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "47:02",
-            "videoid": "x8nk113",
-            "episode": "O8"
-        },
-        {
-            "name": "09-EP Omar Series --(hijrat e madina from makkah)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "45:41",
-            "videoid": "x8nk128",
-            "episode": "O9"
-        },
-        {
-            "name": "10-EP Omar Series --(gazwa e badr)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "44:52",
-            "videoid": "x8nk13g",
-            "episode": "O10"
-        },
-        {
-            "name": "11-EP Omar Series --(victory of muslims in badr)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "45:29",
-            "videoid": "x8nk144",
-            "episode": "O11"
-        },
-        {
-            "name": "12-EP Omar Series --(gazwa e uhad, plannigs of khandaq)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:15",
-            "videoid": "x8nk160",
-            "episode": "O12"
-        },
-        {
-            "name": "13-EP Omar Series --(end of khandaq, sulah hudaibiya)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:27",
-            "videoid": "x8nk172",
-            "episode": "O13"
-        },
-        {
-            "name": "14-EP Omar Series--(hudybia k hero hzrt abu baseer, maktoob)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "45:52",
-            "videoid": "x8nk187",
-            "episode": "O14"
-        },
-        {
-            "name": "15-EP Omar Series--(hzrt khalid bin waleed or amr bin aas, abu sufyan, fatah makkah)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:17",
-            "videoid": "x8nkvw1",
-            "episode": "O15"
-        },
-        {
-            "name": "16-EP Omar Series--(rasoolallah ki rehlat)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:32",
-            "videoid": "x8nkvw5",
-            "episode": "O16"
-        },
-        {
-            "name": "17-EP Omar Series--(khalifa awal)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:27",
-            "videoid": "x8nkvw2",
-            "episode": "O17"
-        },
-        {
-            "name": "18-EP Omar Series",
-            "image": "../images/background/asset-5.jpg",
-            "time": "45:51",
-            "videoid": "x8nkvw3",
-            "episode": "O18"
-        },
-        {
-            "name": "19-EP Omar Series",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:22",
-            "videoid": "x8nkvw4",
-            "episode": "O19"
-        },
-        {
-            "name": "20-EP Omar Series",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:18",
-            "videoid": "x8nkvw6",
-            "episode": "O20"
-        },
-        {
-            "name": "21-EP Omar Series",
-            "image": "../images/background/asset-5.jpg",
-            "time": "46:44",
-            "videoid": "x8nkvw7",
-            "episode": "O21"
-        },
-        {
-            "name": "22-EP Omar Series--(mola Ali se mohabat)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "47:21",
-            "videoid": "x8nkvw9",
-            "episode": "O22"
-        },
-        {
-            "name": "24-EP Omar Series--(bolne ki azadi, bacho k rony ki awaz)",
-            "image": "../images/background/asset-5.jpg",
-            "time": "47:28",
-            "videoid": "x8nkvwa",
-            "episode": "O24"
-        }
+        {"name": "01-EP Omar Series--pehli wahi/ First Revelation", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "37:34", "videoid": "https://www.dailymotion.com/embed/video/x8nk0qv", "episode": "1"},
+        {"name": "02-EP Omar Series--(mola ali ibn abi talib, nimazio pr pathr, amaar ibn yasir, abu talib)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "45:30", "videoid": "https://www.dailymotion.com/embed/video/x8nk0rv", "episode": "2"},
+        {"name": "03-EP Omar Series --(walid al mugeera, abu lahab)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:20", "videoid": "https://www.dailymotion.com/embed/video/x8nk0ta", "episode": "3"},
+        {"name": "04-EP Omar Series --(hzrt amaar bin yasur or bilal ka waqia)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:23", "videoid": "https://www.dailymotion.com/embed/video/x8nk0u8", "episode": "4"},
+        {"name": "05-EP Omar Series --(hzrt abubakr ne gulam azaad krwaye)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:43", "videoid": "https://www.dailymotion.com/embed/video/x8nk0y6", "episode": "5"},
+        {"name": "06-EP Omar Series --(hijrat e habsha)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:19", "videoid": "https://www.dailymotion.com/embed/video/x8nk0z4", "episode": "6"},
+        {"name": "07-EP Omar Series  --(hzrt hamza or umer ka islam qabol)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:38", "videoid": "https://www.dailymotion.com/embed/video/x8nk103", "episode": "7"},
+        {"name": "08-EP Omar Series --(nijashi habsha, shaib e abi talib)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "47:02", "videoid": "https://www.dailymotion.com/embed/video/x8nk113", "episode": "8"},
+        {"name": "09-EP Omar Series --(hijrat e madina from makkah)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "45:41", "videoid": "https://www.dailymotion.com/embed/video/x8nk128", "episode": "9"},
+        {"name": "10-EP Omar Series --(gazwa e badr)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "44:52", "videoid": "https://www.dailymotion.com/embed/video/x8nk13g", "episode": "10"},
+        {"name": "11-EP Omar Series --(victory of muslims in badr)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "45:29", "videoid": "https://www.dailymotion.com/embed/video/x8nk144", "episode": "11"},
+        {"name": "12-EP Omar Series --(gazwa e uhad, plannigs of khandaq)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:15", "videoid": "https://www.dailymotion.com/embed/video/x8nk160", "episode": "12"},
+        {"name": "13-EP Omar Series --(end of khandaq, sulah hudaibiya)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:27", "videoid": "https://www.dailymotion.com/embed/video/x8nk172", "episode": "13"},
+        {"name": "14-EP Omar Series--(hudybia k hero hzrt abu baseer, maktoob)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "45:52", "videoid": "https://www.dailymotion.com/embed/video/x8nk187", "episode": "14"},
+        {"name": "15-EP Omar Series--(hzrt khalid bin waleed or amr bin aas, abu sufyan, fatah makkah)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:17", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw1", "episode": "15"},
+        {"name": "16-EP Omar Series--(rasoolallah ki rehlat)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:32", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw5", "episode": "16"},
+        {"name": "17-EP Omar Series--(khalifa awal)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:27", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw2", "episode": "17"},
+        {"name": "18-EP Omar Series", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "45:51", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw3", "episode": "18"},
+        {"name": "19-EP Omar Series", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:22", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw4", "episode": "19"},
+        {"name": "20-EP Omar Series", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:18", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw6", "episode": "20"},
+        {"name": "21-EP Omar Series", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "46:44", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw7", "episode": "21"},
+        {"name": "22-EP Omar Series--(mola Ali se mohabat)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "47:21", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw9", "episode": "22"},
+        {"name": "24-EP Omar Series--(bolne ki azadi, bacho k rony ki awaz)", "image": "http://localhost:3000/images/background/asset-5.jpg", "time": "47:28", "videoid": "https://www.dailymotion.com/embed/video/x8nkvwa", "episode": "24"}
         
 
     ]

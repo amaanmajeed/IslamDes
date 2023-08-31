@@ -1,20 +1,38 @@
 import MovieBanner from '../Components/MovieBanner';
 import SingleVideo from '../Components/SingleVideo';
 import Omer from '../Data/Omer.json';
+import Ali from '../Data/Ali.json';
+import Ashab from '../Data/Ashab.json';
+import Yousuf from '../Data/Yousuf.json';
+import MukhtarNama from '../Data/MukhtarNama.json';
+import Esa from '../Data/Esa.json';
 import React, { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 
+const jsonMapping = {
+    Ali: Ali,
+    Ashab: Ashab,
+    Esa: Esa,
+    Omer: Omer,
+    Yousuf: Yousuf,
+    MukhtarNama: MukhtarNama,
+    };
+
 export default function SingleVideoPage() {
     window.scrollTo(0, 0);
-    const { videoid } = useParams();
-    const [videoDetail, setvideoDetail] = useState(1);
+    const { jsonName, videoid } = useParams();
+    console.log('jsonName:', jsonName);
+    console.log('videoid:', videoid);
+  const [videoDetail, setVideoDetail] = useState({});
 
-    useEffect(() => {
-        const selectedProduct = Omer.find(myvideo => myvideo.episode === videoid);
-        setvideoDetail(selectedProduct);
-    }, [videoid]);
+  useEffect(() => {
+    if (jsonMapping.hasOwnProperty(jsonName)) {
+      const selectedProduct = jsonMapping[jsonName].find(myvideo => myvideo.episode === videoid);
+      setVideoDetail(selectedProduct);
+    }
+  }, [jsonName, videoid]);
 
-    console.log('Selected Product Details:', videoDetail);
+  console.log('Selected Product Details:', videoDetail);
     
   return (
       <>
@@ -38,8 +56,8 @@ export default function SingleVideoPage() {
                                     <h5 className="gen-more-title">More Like This</h5>
                                     <div className="row post-loadmore-wrapper">
 
-                                            {Omer.map((data, index) => (
-                                                <Link className='col-xl-3 col-lg-4 col-md-6' to={`/video/${data.episode}`} key={data.episode}>
+                                            {jsonMapping[jsonName].map((data, index) => (
+                                                <Link className='col-xl-3 col-lg-4 col-md-6' to={`/video/${jsonName}/${data.episode}`} key={data.episode}>
                                                       <MovieBanner key={index} name={data.name} image={data.image} time={data.time} videoid={data.videoid} episode={data.episode} />
                                                 </Link>
                                             ))}

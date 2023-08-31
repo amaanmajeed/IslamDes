@@ -36,15 +36,15 @@ export default function Footer() {
                            <ul className="menu">
                               <li className="menu-item">
                                  {/* <Link to="index.html" aria-current="page">Home</Link> */}
-                                 <Link to="/video/O1">Home</Link>
+                                 <Link to="/video/Omer/1">Home</Link>
                               </li>
-                              <li className="menu-item"><Link to="/video/O1">Movies</Link></li>
-                              <li className="menu-item"><Link to="/video/O1">Tv</Link></li>
-                              <li className="menu-item"><Link to="/video/O1">Videos</Link></li>
-                              <li className="menu-item"><Link to="/video/O1">Actors</Link></li>
-                              <li className="menu-item"><Link to="/video/O1">Basketball</Link></li>
-                              <li className="menu-item"><Link to="/video/O1">Celebrity</Link></li>
-                              <li className="menu-item"><Link to="/video/O1">Cross</Link></li>
+                              <li className="menu-item"><Link to="/video/Omer/1">Movies</Link></li>
+                              <li className="menu-item"><Link to="/video/Omer/1">Tv</Link></li>
+                              <li className="menu-item"><Link to="/video/Omer/1">Videos</Link></li>
+                              <li className="menu-item"><Link to="/video/Omer/1">Actors</Link></li>
+                              <li className="menu-item"><Link to="/video/Omer/1">Basketball</Link></li>
+                              <li className="menu-item"><Link to="/video/Omer/1">Celebrity</Link></li>
+                              <li className="menu-item"><Link to="/video/Omer/1">Cross</Link></li>
                            </ul>
                         </div>
                      </div>
@@ -56,13 +56,13 @@ export default function Footer() {
                            <ul className="menu">
                               <li className="menu-item"><Link to="contact-us.html">Company</Link>
                               </li>
-                              <li className="menu-item"><Link to="video/O1">Privacy Policy</Link></li>
-                              <li className="menu-item"><Link to="video/O1">Terms Of Use</Link></li>
-                              <li className="menu-item"><Link to="video/O1">Help Center</Link></li>
-                              <li className="menu-item"><Link to="video/O1">contact us</Link></li>
-                              <li className="menu-item"><Link to="video/O1">Subscribe</Link></li>
-                              <li className="menu-item"><Link to="video/O1">Our Team</Link></li>
-                              <li className="menu-item"><Link to="video/O1">Faq</Link></li>
+                              <li className="menu-item"><Link to="video/Omer/1">Privacy Policy</Link></li>
+                              <li className="menu-item"><Link to="video/Omer/1">Terms Of Use</Link></li>
+                              <li className="menu-item"><Link to="video/Omer/1">Help Center</Link></li>
+                              <li className="menu-item"><Link to="video/Omer/1">contact us</Link></li>
+                              <li className="menu-item"><Link to="video/Omer/1">Subscribe</Link></li>
+                              <li className="menu-item"><Link to="video/Omer/1">Our Team</Link></li>
+                              <li className="menu-item"><Link to="video/Omer/1">Faq</Link></li>
                            </ul>
                         </div>
                      </div>

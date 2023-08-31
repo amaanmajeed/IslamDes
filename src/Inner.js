@@ -11,7 +11,7 @@ export default function Inner() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/movies" element={<Movies/>} />
-        <Route path="/video/:videoid" element={<SingleVideoPage />} />
+        <Route path="/video/:jsonName/:videoid" element={<SingleVideoPage />} />
       </Routes>
     </>
   );

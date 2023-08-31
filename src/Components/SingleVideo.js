@@ -6,7 +6,7 @@ export default function SingleVideo(props) {
         <>
     <div className="col-lg-12">
         <div className="gen-video-holder">
-            <iframe width="100%" height="550px" src={`https://www.dailymotion.com/embed/video/${props.videoid}`} frameBorder="0" title={props.name} allowfullscreen></iframe>
+            <iframe width="100%" height="550px" src={props.videoid} frameBorder="0" title={props.name} allowfullscreen></iframe>
         </div>
     </div>
             
