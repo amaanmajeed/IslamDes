@@ -16,7 +16,7 @@ export default function MyOwlCarousel() {
          description: "This epic historical drama chronicles the life and times of Prophet Muhammad and serves as an introduction to early Islamic history.",
          cast: "Anthony Quinn, Irene Papas, Michael Ansara",
          genre: "Biography, Drama, Religion, History, Serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
          image: "http://localhost:3000/images/background/omer.png",
@@ -28,7 +28,7 @@ export default function MyOwlCarousel() {
          description: "A 30-episode series showcasing the various events during the life of Umar Ibn Al-Khattab from his pre-Islamic days till his assassination.",
          cast: "Samer Ismail, Ghassan Massoud, Ghanem Zrelli",
          genre: "Biography, Drama, Religion, History, Serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
          image: "http://localhost:3000/images/background/Aliposter.png",
@@ -40,7 +40,7 @@ export default function MyOwlCarousel() {
          description: "The whole story about Imam Ali, the friend and companion of Prophet Muhammad.",
          cast: "	Dariush Arjmand, Vishka Asayesh, Parviz Parastui",
          genre: "Biography, drama, religion, history, serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
          image: "http://localhost:3000/images/background/Joseph.png",
@@ -52,7 +52,7 @@ export default function MyOwlCarousel() {
          description: "Prophet Joseph is an Iranian Islamic television series. It is based on the Islamic account of Joseph from Quran and Islamic traditions.",
          cast: "Mostafa Zamani, Katayoun Riahi, Mahmoud Pak Niat",
          genre: "Biography, drama, religion, history, serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
          image: "http://localhost:3000/images/background/Esa.png",
@@ -64,7 +64,7 @@ export default function MyOwlCarousel() {
          description: "A 17-episode series showcasing the various events during the life of Hazrat Esa.",
          cast: "Dariush Arjmand, Vishka Asayesh, Mohammad-Reza, Mehdi Fat'hi",
          genre: "Biography, drama, religion, history, serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
          image: "http://localhost:3000/images/background/Mukhtarnama.png",
@@ -76,7 +76,7 @@ export default function MyOwlCarousel() {
          description: "Mokhtarnameh is based on the life of Al-Mukhtar, who led a rebellion against the Umayyad Caliphate",
          cast: "	Fariborz Arabnia, Farhad Aslani, Hassan Mirbagheri",
          genre: "Biography, drama, religion, history, serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
          image: "http://localhost:3000/images/background/Ashab.jpg",
@@ -88,7 +88,7 @@ export default function MyOwlCarousel() {
          description: "Ashab E Kahf depicts the story of the Seven Sleepers, according to the Quran.",
          cast: "Dariush Arjmand, Vishka Asayesh, Mohammad-Reza, Mehdi Fat'hi",
          genre: "Biography, drama, religion, history, serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
          image: "http://localhost:3000/images/background/hazrat_ibrahim.png",
@@ -100,7 +100,7 @@ export default function MyOwlCarousel() {
          description: "The story of six nobles and one sheepman who become Christian, run away from Romans to a cave where they will sleep 309 years, from Islamic view.",
          cast: "Roshanak Ajamian, Leila Bolukat, Behzad Farahani",
          genre: "Biography, Drama, Religion, History, Serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
          image: "http://localhost:3000/images/background/Hazrat_Mosa.jpg",
@@ -112,7 +112,7 @@ export default function MyOwlCarousel() {
          description: "A Movie containing the life events of Prophet Musa",
          cast: "Zarett Durand, Daniel Silva Páramo",
          genre: "Biography, Drama, Religion, History, Serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
          image: "http://localhost:3000/images/background/Hazrat_Salman.jpg",
@@ -124,7 +124,7 @@ export default function MyOwlCarousel() {
          description: "A film delves into Muslim family life, religious ceremonies, and the Five Pillars of Islam, emphasizing the significance of family and faith in Muslim communities.",
          cast: "Samer Ismail, Ghassan Massoud, Ghanem Zrelli",
          genre: "Biography, Drama, Religion, History, Serial",
-         tag: "Historical Biopic, Omer Series, Faith, Spiritual Exploration"
+         tag: "Historical Biopic, Faith, Spiritual Exploration"
       }
     ]
   return (
@@ -134,7 +134,7 @@ export default function MyOwlCarousel() {
                <div className="row no-gutters">
                   <div className="col-12">
                      <div className="gen-banner-movies banner-style-2">
-                        <OwlCarousel className='owl-theme' items={1} loop margin={10} nav>
+                        <OwlCarousel className='owl-theme' loop nav items={1} margin={10} autoplay={true} autoplayTimeout={5000} autoplayHoverPause={true} >
                            {OwlList.map((data, index) => (
                               <OwlItem key={index} image={data.image} play={data.play} tagLine={data.tagLine} name={data.name} rating={data.rating} movieRating={data.movieRating} description={data.description} cast={data.cast} genre={data.genre} tag={data.tag}/>
                            ))}
