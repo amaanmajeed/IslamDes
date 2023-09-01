@@ -6,7 +6,7 @@ import Ashab from '../Data/Ashab.json';
 import Yousuf from '../Data/Yousuf.json';
 import MukhtarNama from '../Data/MukhtarNama.json';
 import Esa from '../Data/Esa.json';
-import Movies from '../Data/Movies.json';
+import Movie from '../Data/Movie.json';
 import React, { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 
@@ -17,7 +17,7 @@ const jsonMapping = {
     Omer: Omer,
     Yousuf: Yousuf,
     MukhtarNama: MukhtarNama,
-    Movies: Movies
+    Movie: Movie
     };
 
 export default function SingleVideoPage() {
