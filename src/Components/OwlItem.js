@@ -2,7 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 export default function OwlItem(props) {
-    
+    console.log("props.play", props.play)
+
   return (
     <div className="item" style={{background: `url(${props.image})`}}>
         <div className="gen-movie-contain-style-2 h-100">
@@ -11,7 +12,7 @@ export default function OwlItem(props) {
                     <div className="col-xl-6">
                     <div className="gen-front-image">
                         <img src={props.image} alt="owl-carousel-banner"/>
-                        <Link to="http://localhost:3000/video/Omer/1" className="playBut popup-youtube popup-vimeo popup-gmaps">
+                        <Link to={props.play} className="playBut popup-youtube popup-vimeo popup-gmaps">
                             {/* Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In */}
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="213.7px" height="213.7px" viewBox="0 0 213.7 213.7"
                                 enableBackground="new 0 0 213.7 213.7" xmlSpace="preserve">
@@ -55,7 +56,7 @@ export default function OwlItem(props) {
                     </div>
                     <div className="gen-movie-action">
                         <div className="gen-btn-container">
-                            <Link className="gen-button .gen-button-dark" to='video/Omer/1'>
+                            <Link className="gen-button .gen-button-dark" to={props.play}>
                                 <i aria-hidden="true" className="fas fa-play"></i> <span className="text">Play Now</span>
                             </Link>
                         </div>
