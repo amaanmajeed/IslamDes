@@ -126,7 +126,16 @@ export default function MyOwlCarousel() {
          genre: "Biography, Drama, Religion, History, Serial",
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       }
-    ]
+   ]
+   const carouselOptions = {
+      loop: true,
+      nav: true,
+      items: 1,
+      margin: 10,
+      autoplay: true,
+      autoplayTimeout: 5000,
+      autoplayHoverPause: true,
+   };
   return (
       <>
          <section className="pt-0 pb-0">
@@ -134,7 +143,7 @@ export default function MyOwlCarousel() {
                <div className="row no-gutters">
                   <div className="col-12">
                      <div className="gen-banner-movies banner-style-2">
-                        <OwlCarousel className='owl-theme' loop nav items={1} margin={10} autoplay={true} autoplayTimeout={5000} autoplayHoverPause={true} >
+                        <OwlCarousel className='owl-theme' {...carouselOptions}>
                            {OwlList.map((data, index) => (
                               <OwlItem key={index} image={data.image} play={data.play} tagLine={data.tagLine} name={data.name} rating={data.rating} movieRating={data.movieRating} description={data.description} cast={data.cast} genre={data.genre} tag={data.tag}/>
                            ))}
