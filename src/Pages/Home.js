@@ -7,6 +7,7 @@ import Ashab from '../Data/Ashab.json';
 import Yousuf from '../Data/Yousuf.json';
 import MukhtarNama from '../Data/MukhtarNama.json';
 import Esa from '../Data/Esa.json';
+import Movies from '../Data/Movies.json';
 import allseries from '../Data/allseries.json';
 
 

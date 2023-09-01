@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Prophet Muhammad",
+        "image": "http://localhost:3000/images/background/The_Message.png",
+        "time": "3:13:24",
+        "videoid": "https://www.youtube.com/embed/4iYwFVOcZRg?si=ajU6A9rbx4JDKRvB",
+        "episode": "Muhammad"
+    },
+    {
+        "name": "Prophet Ibrahim",
+        "image": "http://localhost:3000/images/background/hazrat_ibrahim.png",
+        "time": "1:48:39",
+        "videoid": "https://www.youtube.com/embed/AK7b5f6RCAk?si=ajU6A9rbx4JDKRvB",
+        "episode": "Ibrahim"
+    },
+    {
+        "name": "Prophet Musa",
+        "image": "http://localhost:3000/images/background/Hazrat_Mosa.jpg",
+        "time": "1:22:06",
+        "videoid": "https://www.youtube.com/embed/LaQDhZdmSnU?si=ajU6A9rbx4JDKRvB",
+        "episode": "Musa"
+    },
+    {
+        "name": "Prophet Suleiman",
+        "image": "http://localhost:3000/images/background/Hazrat_Salman.jpg",
+        "time": "1:40:17",
+        "videoid": "https://www.youtube.com/embed/UbXN98-iIWg?si=ajU6A9rbx4JDKRvB",
+        "episode": "Suleiman"
+    }
+]

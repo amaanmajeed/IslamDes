@@ -8,6 +8,7 @@ import Ashab from '../Data/Ashab.json';
 import Yousuf from '../Data/Yousuf.json';
 import MukhtarNama from '../Data/MukhtarNama.json';
 import Esa from '../Data/Esa.json';
+import Movies from '../Data/Movies.json';
 import SliderItem from './SliderItem';
 import { Link } from 'react-router-dom';
 
@@ -18,6 +19,7 @@ const jsonMapping = {
     Omer: Omer,
     Yousuf: Yousuf,
     MukhtarNama: MukhtarNama,
+    Movies: Movies
     };
 
 export default function Slider(props) {
