@@ -505,6 +505,7 @@ Back to Top
     background: var(--primarydark-color);
     color: var(--white-color);
     border: 1px solid var(--primarydark-color);
+    cursor: pointer;
 }
 
 

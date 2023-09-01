@@ -57,7 +57,7 @@ export default function SingleVideoPage() {
                                     <div className="row post-loadmore-wrapper">
 
                                             {jsonMapping[jsonName].map((data, index) => (
-                                                <Link className='col-xl-3 col-lg-4 col-md-6' to={`/video/${jsonName}/${data.episode}`} key={data.episode}>
+                                                <Link className='col-xl-3 col-lg-4 col-md-6 rounded' to={`/video/${jsonName}/${data.episode}`} key={data.episode}>
                                                       <MovieBanner key={index} name={data.name} image={data.image} time={data.time} videoid={data.videoid} episode={data.episode} />
                                                 </Link>
                                             ))}
