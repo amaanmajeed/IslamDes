@@ -36,7 +36,7 @@ export default function Slider(props) {
                   <div className="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                      <div className="gen-movie-action">
                         <div className="gen-btn-container text-right">
-                           <Link className='gen-button gen-button-flat' to="/movies">
+                           <Link className='gen-button gen-button-flat' to={`/movies/${name}`}>
                               <span className="text">More Videos</span>
                            </Link>
                         </div>
