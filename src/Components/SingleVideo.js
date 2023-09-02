@@ -31,7 +31,7 @@ export default function SingleVideo(props) {
                   <p>{props.description}</p>
                   <br /> */}
                         
-                <div className="gen-socail-share mt-0">
+                <div className="gen-socail-share mt-4">
                     <h4 className="align-self-center">Social Share :</h4>
                     <ul className="social-inner">
                         <li><Link to="/" className="facebook"><i className="fab fa-facebook-f"></i></Link></li>

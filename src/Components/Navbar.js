@@ -28,7 +28,7 @@ export default function Navbar() {
                                     <Link to="/">Home</Link>
                                 </li>
                                 <li className={`menu-item ${isActive('/movies')}`}>
-                                    <Link to="/movies">Movies</Link>
+                                    <Link to="/movies/all">Movies</Link>
                                 </li>
                                 <li className={`menu-item ${isActive('/video/')}`}>
                                     <Link to="/video/Movie/Muhammad">Play</Link>
