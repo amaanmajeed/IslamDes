@@ -31,7 +31,7 @@ export default function Slider(props) {
             <div className="container">
                <div className="row">
                   <div className="col-xl-6 col-lg-6 col-md-6">
-                     <h4 className="gen-heading-title">{name} Series</h4>
+                     <h4 className="gen-heading-title">{name === "Movie" ? "Movies" : name + " Series"}</h4>
                   </div>
                   <div className="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                      <div className="gen-movie-action">
