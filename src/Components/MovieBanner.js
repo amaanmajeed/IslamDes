@@ -7,7 +7,7 @@ export default function MovieBanner(props) {
             <div className="gen-movie-contain">
                 <div className="gen-movie-img">
                     <img src={props.image} alt="single-video"/>
-                    <div className="gen-movie-add">
+                    {/* <div className="gen-movie-add">
                         <div className="wpulike wpulike-heart">
                             <div className="wp_ulike_general_class">
                                 <Link className="sl-button text-white"><i className="far fa-heart"></i></Link>
@@ -29,7 +29,7 @@ export default function MovieBanner(props) {
                                 <Link className="login-link">Sign in to add this video to a playlist.</Link>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="gen-movie-action">
                         <div className="gen-button">
                             <i className="fa fa-play"></i>
