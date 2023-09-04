@@ -1,8 +1,11 @@
+import "./App.css";
+import React from 'react';
+
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
 import MoveTop from './Components/MoveTop';
 import Inner from './Inner';
-import React from "react";
+
 import { BrowserRouter as Router } from 'react-router-dom';
 
 function App() {
