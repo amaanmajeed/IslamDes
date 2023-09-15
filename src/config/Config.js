@@ -1,6 +1,11 @@
 
 const API_BASE_URL = "https://api.example.com";
-const WEBSITE_BASE_URL = "https://www.example.com";
+const WEBSITE_BASE_URL = "http://localhost:3000/";
+
+export const IMAGES_URL = "http://localhost:3000/images/";
+
+
+
 
 export const API_ROUTES = {
   FETCH_MOVIES: `${API_BASE_URL}/movies`,
