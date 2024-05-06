@@ -10,7 +10,7 @@ export default function SliderItem(props) {
             <div className="gen-carousel-movies-style-2 movie-grid style-2">
                 <div className="gen-movie-contain">
                     <div className="gen-movie-img">
-                    <img src={props.image} alt="owl-carousel-video"/>
+                    <img src={WEBSITE_BASE_URL + props.image} alt="owl-carousel-video"/>
                     <div className="gen-movie-add">
                         <div className="wpulike wpulike-heart">
                             <div className="wp_ulike_general_class wp_ulike_is_not_liked"><button
