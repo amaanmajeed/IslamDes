@@ -1,26 +1,170 @@
 [
-    {"name": "Imam Ali Episode 01", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "40:16", "videoid": "https://www.youtube.com/embed/AQeDY9g1phQ?si=ajU6A9rbx4JDKRvB", "episode": "1"},
-    {"name": "Imam Ali Episode 02", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "44:17", "videoid": "https://www.youtube.com/embed/AnFHacVfyaQ?si=ajU6A9rbx4JDKRvB", "episode": "2"},
-    {"name": "Imam Ali Episode 03", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "39:09", "videoid": "https://www.youtube.com/embed/cklxaTYg7No?si=ajU6A9rbx4JDKRvB", "episode": "3"},
-    {"name": "Imam Ali Episode 04", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "39:23", "videoid": "https://www.youtube.com/embed/-jqqzkQN58o?si=ajU6A9rbx4JDKRvB", "episode": "4"},
-    {"name": "Imam Ali Episode 05", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "39:26", "videoid": "https://www.youtube.com/embed/2FeuzktTXa0?si=ajU6A9rbx4JDKRvB", "episode": "5"},
-    {"name": "Imam Ali Episode 06", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "33:09", "videoid": "https://www.youtube.com/embed/33ps8j9hqIQ?si=ajU6A9rbx4JDKRvB", "episode": "6"},
-    {"name": "Imam Ali Episode 08", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "44:18", "videoid": "https://www.youtube.com/embed/Q9NzPtDYlAs?si=ajU6A9rbx4JDKRvB", "episode": "8"},
-    {"name": "Imam Ali Episode 09", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "45:03", "videoid": "https://www.youtube.com/embed/p1Bi9xchXLg?si=ajU6A9rbx4JDKRvB", "episode": "9"},
-    {"name": "Imam Ali Episode 10", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "46:30", "videoid": "https://www.youtube.com/embed/Ul5GdNSTpZs?si=ajU6A9rbx4JDKRvB", "episode": "10"},
-    {"name": "Imam Ali Episode 11", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "46:15", "videoid": "https://www.youtube.com/embed/Yh6v6n6ymHM?si=ajU6A9rbx4JDKRvB", "episode": "11"},
-    {"name": "Imam Ali Episode 12", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "43:00", "videoid": "https://www.youtube.com/embed/ulNwBZlLqpQ?si=ajU6A9rbx4JDKRvB", "episode": "12"},
-    {"name": "Imam Ali Episode 13", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "43:34", "videoid": "https://www.youtube.com/embed/BjErWJO6Q24?si=ajU6A9rbx4JDKRvB", "episode": "13"},
-    {"name": "Imam Ali Episode 14", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "36:43", "videoid": "https://www.youtube.com/embed/k3AEFMYLJtc?si=ajU6A9rbx4JDKRvB", "episode": "14"},
-    {"name": "Imam Ali Episode 15", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "47:18", "videoid": "https://www.youtube.com/embed/POsUENPOfxw?si=ajU6A9rbx4JDKRvB", "episode": "15"},
-    {"name": "Imam Ali Episode 16", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "41:02", "videoid": "https://www.youtube.com/embed/lXNzrst969Q?si=ajU6A9rbx4JDKRvB", "episode": "16"},
-    {"name": "Imam Ali Episode 17", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "43:52", "videoid": "https://www.youtube.com/embed/e00kRPG3TNI?si=ajU6A9rbx4JDKRvB", "episode": "17"},
-    {"name": "Imam Ali Episode 18", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "56:03", "videoid": "https://www.youtube.com/embed/po8pq1pP9M8?si=ajU6A9rbx4JDKRvB", "episode": "18"},
-    {"name": "Imam Ali Episode 19", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "43:17", "videoid": "https://www.youtube.com/embed/wAS3ea2FtHI?si=ajU6A9rbx4JDKRvB", "episode": "19"},
-    {"name": "Imam Ali Episode 20", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "42:40", "videoid": "https://www.youtube.com/embed/aiy1y5OjLnA?si=ajU6A9rbx4JDKRvB", "episode": "20"},
-    {"name": "Imam Ali Episode 21", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "62:16", "videoid": "https://www.youtube.com/embed/vLX_q51i5Lo?si=ajU6A9rbx4JDKRvB", "episode": "21"},
-    {"name": "Imam Ali Episode 22", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "28:02", "videoid": "https://www.youtube.com/embed/LDKpNLhp-S0?si=ajU6A9rbx4JDKRvB", "episode": "22"},
-    {"name": "Imam Ali Episode 23", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "43:17", "videoid": "https://www.youtube.com/embed/9Bz5X0k8LKI?si=ajU6A9rbx4JDKRvB", "episode": "23"},
-    {"name": "Imam Ali Episode 24", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "42:12", "videoid": "https://www.youtube.com/embed/mMaRe8LT2sE?si=ajU6A9rbx4JDKRvB", "episode": "24"},
-    {"name": "Imam Ali Episode 25", "image": "http://localhost:3000/images/background/Aliposter.png", "time": "44:56", "videoid": "https://www.youtube.com/embed/7NvYCGClreU?si=ajU6A9rbx4JDKRvB", "episode": "25"} 
+    {
+        "name": "Imam Ali Episode 01",
+        "image": "images/background/Aliposter.png",
+        "time": "40:16",
+        "videoid": "https://www.youtube.com/embed/AQeDY9g1phQ?si=ajU6A9rbx4JDKRvB",
+        "episode": "1"
+    },
+    {
+        "name": "Imam Ali Episode 02",
+        "image": "images/background/Aliposter.png",
+        "time": "44:17",
+        "videoid": "https://www.youtube.com/embed/AnFHacVfyaQ?si=ajU6A9rbx4JDKRvB",
+        "episode": "2"
+    },
+    {
+        "name": "Imam Ali Episode 03",
+        "image": "images/background/Aliposter.png",
+        "time": "39:09",
+        "videoid": "https://www.youtube.com/embed/cklxaTYg7No?si=ajU6A9rbx4JDKRvB",
+        "episode": "3"
+    },
+    {
+        "name": "Imam Ali Episode 04",
+        "image": "images/background/Aliposter.png",
+        "time": "39:23",
+        "videoid": "https://www.youtube.com/embed/-jqqzkQN58o?si=ajU6A9rbx4JDKRvB",
+        "episode": "4"
+    },
+    {
+        "name": "Imam Ali Episode 05",
+        "image": "images/background/Aliposter.png",
+        "time": "39:26",
+        "videoid": "https://www.youtube.com/embed/2FeuzktTXa0?si=ajU6A9rbx4JDKRvB",
+        "episode": "5"
+    },
+    {
+        "name": "Imam Ali Episode 06",
+        "image": "images/background/Aliposter.png",
+        "time": "33:09",
+        "videoid": "https://www.youtube.com/embed/33ps8j9hqIQ?si=ajU6A9rbx4JDKRvB",
+        "episode": "6"
+    },
+    {
+        "name": "Imam Ali Episode 08",
+        "image": "images/background/Aliposter.png",
+        "time": "44:18",
+        "videoid": "https://www.youtube.com/embed/Q9NzPtDYlAs?si=ajU6A9rbx4JDKRvB",
+        "episode": "8"
+    },
+    {
+        "name": "Imam Ali Episode 09",
+        "image": "images/background/Aliposter.png",
+        "time": "45:03",
+        "videoid": "https://www.youtube.com/embed/p1Bi9xchXLg?si=ajU6A9rbx4JDKRvB",
+        "episode": "9"
+    },
+    {
+        "name": "Imam Ali Episode 10",
+        "image": "images/background/Aliposter.png",
+        "time": "46:30",
+        "videoid": "https://www.youtube.com/embed/Ul5GdNSTpZs?si=ajU6A9rbx4JDKRvB",
+        "episode": "10"
+    },
+    {
+        "name": "Imam Ali Episode 11",
+        "image": "images/background/Aliposter.png",
+        "time": "46:15",
+        "videoid": "https://www.youtube.com/embed/Yh6v6n6ymHM?si=ajU6A9rbx4JDKRvB",
+        "episode": "11"
+    },
+    {
+        "name": "Imam Ali Episode 12",
+        "image": "images/background/Aliposter.png",
+        "time": "43:00",
+        "videoid": "https://www.youtube.com/embed/ulNwBZlLqpQ?si=ajU6A9rbx4JDKRvB",
+        "episode": "12"
+    },
+    {
+        "name": "Imam Ali Episode 13",
+        "image": "images/background/Aliposter.png",
+        "time": "43:34",
+        "videoid": "https://www.youtube.com/embed/BjErWJO6Q24?si=ajU6A9rbx4JDKRvB",
+        "episode": "13"
+    },
+    {
+        "name": "Imam Ali Episode 14",
+        "image": "images/background/Aliposter.png",
+        "time": "36:43",
+        "videoid": "https://www.youtube.com/embed/k3AEFMYLJtc?si=ajU6A9rbx4JDKRvB",
+        "episode": "14"
+    },
+    {
+        "name": "Imam Ali Episode 15",
+        "image": "images/background/Aliposter.png",
+        "time": "47:18",
+        "videoid": "https://www.youtube.com/embed/POsUENPOfxw?si=ajU6A9rbx4JDKRvB",
+        "episode": "15"
+    },
+    {
+        "name": "Imam Ali Episode 16",
+        "image": "images/background/Aliposter.png",
+        "time": "41:02",
+        "videoid": "https://www.youtube.com/embed/lXNzrst969Q?si=ajU6A9rbx4JDKRvB",
+        "episode": "16"
+    },
+    {
+        "name": "Imam Ali Episode 17",
+        "image": "images/background/Aliposter.png",
+        "time": "43:52",
+        "videoid": "https://www.youtube.com/embed/e00kRPG3TNI?si=ajU6A9rbx4JDKRvB",
+        "episode": "17"
+    },
+    {
+        "name": "Imam Ali Episode 18",
+        "image": "images/background/Aliposter.png",
+        "time": "56:03",
+        "videoid": "https://www.youtube.com/embed/po8pq1pP9M8?si=ajU6A9rbx4JDKRvB",
+        "episode": "18"
+    },
+    {
+        "name": "Imam Ali Episode 19",
+        "image": "images/background/Aliposter.png",
+        "time": "43:17",
+        "videoid": "https://www.youtube.com/embed/wAS3ea2FtHI?si=ajU6A9rbx4JDKRvB",
+        "episode": "19"
+    },
+    {
+        "name": "Imam Ali Episode 20",
+        "image": "images/background/Aliposter.png",
+        "time": "42:40",
+        "videoid": "https://www.youtube.com/embed/aiy1y5OjLnA?si=ajU6A9rbx4JDKRvB",
+        "episode": "20"
+    },
+    {
+        "name": "Imam Ali Episode 21",
+        "image": "images/background/Aliposter.png",
+        "time": "62:16",
+        "videoid": "https://www.youtube.com/embed/vLX_q51i5Lo?si=ajU6A9rbx4JDKRvB",
+        "episode": "21"
+    },
+    {
+        "name": "Imam Ali Episode 22",
+        "image": "images/background/Aliposter.png",
+        "time": "28:02",
+        "videoid": "https://www.youtube.com/embed/LDKpNLhp-S0?si=ajU6A9rbx4JDKRvB",
+        "episode": "22"
+    },
+    {
+        "name": "Imam Ali Episode 23",
+        "image": "images/background/Aliposter.png",
+        "time": "43:17",
+        "videoid": "https://www.youtube.com/embed/9Bz5X0k8LKI?si=ajU6A9rbx4JDKRvB",
+        "episode": "23"
+    },
+    {
+        "name": "Imam Ali Episode 24",
+        "image": "images/background/Aliposter.png",
+        "time": "42:12",
+        "videoid": "https://www.youtube.com/embed/mMaRe8LT2sE?si=ajU6A9rbx4JDKRvB",
+        "episode": "24"
+    },
+    {
+        "name": "Imam Ali Episode 25",
+        "image": "images/background/Aliposter.png",
+        "time": "44:56",
+        "videoid": "https://www.youtube.com/embed/7NvYCGClreU?si=ajU6A9rbx4JDKRvB",
+        "episode": "25"
+    }
 ]

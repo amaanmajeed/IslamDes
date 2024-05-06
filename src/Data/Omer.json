@@ -1,32 +1,212 @@
 [
-        {"name": "01 -EP Omar Series - Omar Ibn Khattab", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "37:34", "videoid": "https://www.dailymotion.com/embed/video/x8nk0qv", "episode": "1"},
-        {"name": "02 -EP Omar Series - Islam Begins", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "45:30", "videoid": "https://www.dailymotion.com/embed/video/x8nk0rv", "episode": "2"},
-        {"name": "03 -EP Omar Series - Muhammad's Message & Abu Lahab", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:20", "videoid": "https://www.dailymotion.com/embed/video/x8nk0ta", "episode": "3"},
-        {"name": "04 -EP Omar Series - Family Affairs, Torture and Boycott Muslims", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:23", "videoid": "https://www.dailymotion.com/embed/video/x8nk0u8", "episode": "4"},
-        {"name": "05 -EP Omar Series - Persecution of Muslims by the Meccans", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:43", "videoid": "https://www.dailymotion.com/embed/video/x8nk0y6", "episode": "5"},
-        {"name": "06 -EP Omar Series - Bilal ibn Rabah Gains Freedom and Embraces Islam", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:19", "videoid": "https://www.dailymotion.com/embed/video/x8nk0z4", "episode": "6"},
-        {"name": "07 -EP Omar Series - Migration to Abyssinia", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:38", "videoid": "https://www.dailymotion.com/embed/video/x8nk103", "episode": "7"},
-        {"name": "08 -EP Omar Series - Omar Embraces Islam, First Sermon", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "47:02", "videoid": "https://www.dailymotion.com/embed/video/x8nk113", "episode": "8"},
-        {"name": "09 -EP Omar Series - Boycott Against Muslims", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "45:41", "videoid": "https://www.dailymotion.com/embed/video/x8nk128", "episode": "9"},
-        {"name": "10 -EP Omar Series - Hijrah to Yathrib, Medina, Building Al-Masjid an-Nabawi", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "44:52", "videoid": "https://www.dailymotion.com/embed/video/x8nk13g", "episode": "10"},
-        {"name": "11 -EP Omar Series - Battle of Badr, Death of Abu Jahl", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "45:29", "videoid": "https://www.dailymotion.com/embed/video/x8nk144", "episode": "11"},
-        {"name": "12 -EP Omar Series - Quraish Plan for the Second Battle Against Muslims", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:15", "videoid": "https://www.dailymotion.com/embed/video/x8nk160", "episode": "12"},
-        {"name": "13 -EP Omar Series - Battle of Uhud, Digging the Trench", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:27", "videoid": "https://www.dailymotion.com/embed/video/x8nk172", "episode": "13"},
-        {"name": "14 -EP Omar Series - Battle of Khandaq, Treaty of Hudaibiyah", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "45:52", "videoid": "https://www.dailymotion.com/embed/video/x8nk187", "episode": "14"},
-        {"name": "15 -EP Omar Series - The Year of Delegations, First Hajj", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:17", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw1", "episode": "15"},
-        {"name": "16 -EP Omar Series - Khalid ibn al-Walid Embrace Islam, Conquest of Mecca", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:32", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw5", "episode": "16"},
-        {"name": "17 -EP Omar Series - Abu Sufyan Embrace Islam, Death of Muhammad PBUH", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:27", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw2", "episode": "17"},
-        {"name": "18 -EP Omar Series - Abu Bakr Becomes the First Caliph", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "45:51", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw3", "episode": "18"},
-        {"name": "19 -EP Omar Series - Rise of Sajah, Ridda Wars", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:22", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw4", "episode": "19"},
-        {"name": "20 -EP Omar Series - Battle of Yamama Against Musaylimah", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:18", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw6", "episode": "20"},
-        {"name": "21 -EP Omar Series - Muslim Conquest of Persia", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:44", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw7", "episode": "21"},
-        {"name": "22 -EP Omar Series - Death of Abu Bakr, Umar Becomes Caliph, Battle of Yarmouk", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "47:21", "videoid": "https://www.dailymotion.com/embed/video/x8nkvw9", "episode": "22"},
-        {"name": "23 -EP Omar Series - Battle of Yarmouk Against Theodore Trithyrius", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "47:21", "videoid": "https://www.youtube.com/embed/olRZ2g9_OB8?si=DZv8Ya7iZksWfHfa", "episode": "23"},
-        {"name": "24 -EP Omar Series - Muslim Conquest of the Levant", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "47:28", "videoid": "https://www.dailymotion.com/embed/video/x8nkvwa", "episode": "24"},
-        {"name": "25 -EP Omar Series - Omar and his subjects", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:13", "videoid": "https://www.dailymotion.com/embed/video/x8nmfsl", "episode": "25"},
-        {"name": "26 -EP Omar Series - Siege of Damascus", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:17", "videoid": "https://www.dailymotion.com/embed/video/x8nmfsn", "episode": "26"},
-        {"name": "27 -EP Omar Series - Battle of al-Qadisiyyah Against Sassanids", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "47:28", "videoid": "https://www.youtube.com/embed/RoJgd1Dz26g?si=WOMlp6JmM4ESXKK6", "episode": "27"},
-        {"name": "28 -EP Omar Series - Siege of Jerusalem", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "46:07", "videoid": "https://www.dailymotion.com/embed/video/x8nmfsm", "episode": "28"},
-        {"name": "29 -EP Omar Series - Famine Year", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "1:02:14", "videoid": "https://www.dailymotion.com/embed/video/x8nmjs4", "episode": "29"},
-        {"name": "30 -EP Omar Series - Plague, Conquest of Egypt, Death of Omar Ibn Khattab", "image": "http://localhost:3000/images/background/Omer Poster.jpg", "time": "47:17", "videoid": "https://www.dailymotion.com/embed/video/x8nmfso", "episode": "30"}
+        {
+            "name": "01 -EP Omar Series - Omar Ibn Khattab",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "37:34",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk0qv",
+            "episode": "1"
+        },
+        {
+            "name": "02 -EP Omar Series - Islam Begins",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "45:30",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk0rv",
+            "episode": "2"
+        },
+        {
+            "name": "03 -EP Omar Series - Muhammad's Message & Abu Lahab",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:20",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk0ta",
+            "episode": "3"
+        },
+        {
+            "name": "04 -EP Omar Series - Family Affairs, Torture and Boycott Muslims",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:23",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk0u8",
+            "episode": "4"
+        },
+        {
+            "name": "05 -EP Omar Series - Persecution of Muslims by the Meccans",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:43",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk0y6",
+            "episode": "5"
+        },
+        {
+            "name": "06 -EP Omar Series - Bilal ibn Rabah Gains Freedom and Embraces Islam",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:19",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk0z4",
+            "episode": "6"
+        },
+        {
+            "name": "07 -EP Omar Series - Migration to Abyssinia",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:38",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk103",
+            "episode": "7"
+        },
+        {
+            "name": "08 -EP Omar Series - Omar Embraces Islam, First Sermon",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "47:02",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk113",
+            "episode": "8"
+        },
+        {
+            "name": "09 -EP Omar Series - Boycott Against Muslims",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "45:41",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk128",
+            "episode": "9"
+        },
+        {
+            "name": "10 -EP Omar Series - Hijrah to Yathrib, Medina, Building Al-Masjid an-Nabawi",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "44:52",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk13g",
+            "episode": "10"
+        },
+        {
+            "name": "11 -EP Omar Series - Battle of Badr, Death of Abu Jahl",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "45:29",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk144",
+            "episode": "11"
+        },
+        {
+            "name": "12 -EP Omar Series - Quraish Plan for the Second Battle Against Muslims",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:15",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk160",
+            "episode": "12"
+        },
+        {
+            "name": "13 -EP Omar Series - Battle of Uhud, Digging the Trench",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:27",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk172",
+            "episode": "13"
+        },
+        {
+            "name": "14 -EP Omar Series - Battle of Khandaq, Treaty of Hudaibiyah",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "45:52",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nk187",
+            "episode": "14"
+        },
+        {
+            "name": "15 -EP Omar Series - The Year of Delegations, First Hajj",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:17",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nkvw1",
+            "episode": "15"
+        },
+        {
+            "name": "16 -EP Omar Series - Khalid ibn al-Walid Embrace Islam, Conquest of Mecca",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:32",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nkvw5",
+            "episode": "16"
+        },
+        {
+            "name": "17 -EP Omar Series - Abu Sufyan Embrace Islam, Death of Muhammad PBUH",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:27",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nkvw2",
+            "episode": "17"
+        },
+        {
+            "name": "18 -EP Omar Series - Abu Bakr Becomes the First Caliph",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "45:51",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nkvw3",
+            "episode": "18"
+        },
+        {
+            "name": "19 -EP Omar Series - Rise of Sajah, Ridda Wars",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:22",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nkvw4",
+            "episode": "19"
+        },
+        {
+            "name": "20 -EP Omar Series - Battle of Yamama Against Musaylimah",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:18",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nkvw6",
+            "episode": "20"
+        },
+        {
+            "name": "21 -EP Omar Series - Muslim Conquest of Persia",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:44",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nkvw7",
+            "episode": "21"
+        },
+        {
+            "name": "22 -EP Omar Series - Death of Abu Bakr, Umar Becomes Caliph, Battle of Yarmouk",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "47:21",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nkvw9",
+            "episode": "22"
+        },
+        {
+            "name": "23 -EP Omar Series - Battle of Yarmouk Against Theodore Trithyrius",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "47:21",
+            "videoid": "https://www.youtube.com/embed/olRZ2g9_OB8?si=DZv8Ya7iZksWfHfa",
+            "episode": "23"
+        },
+        {
+            "name": "24 -EP Omar Series - Muslim Conquest of the Levant",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "47:28",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nkvwa",
+            "episode": "24"
+        },
+        {
+            "name": "25 -EP Omar Series - Omar and his subjects",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:13",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nmfsl",
+            "episode": "25"
+        },
+        {
+            "name": "26 -EP Omar Series - Siege of Damascus",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:17",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nmfsn",
+            "episode": "26"
+        },
+        {
+            "name": "27 -EP Omar Series - Battle of al-Qadisiyyah Against Sassanids",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "47:28",
+            "videoid": "https://www.youtube.com/embed/RoJgd1Dz26g?si=WOMlp6JmM4ESXKK6",
+            "episode": "27"
+        },
+        {
+            "name": "28 -EP Omar Series - Siege of Jerusalem",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "46:07",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nmfsm",
+            "episode": "28"
+        },
+        {
+            "name": "29 -EP Omar Series - Famine Year",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "1:02:14",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nmjs4",
+            "episode": "29"
+        },
+        {
+            "name": "30 -EP Omar Series - Plague, Conquest of Egypt, Death of Omar Ibn Khattab",
+            "image": "images/background/Omer Poster.jpg",
+            "time": "47:17",
+            "videoid": "https://www.dailymotion.com/embed/video/x8nmfso",
+            "episode": "30"
+        }
     ]

@@ -20,19 +20,19 @@ export default function SliderItem(props) {
                             <li className="share top">
                                 <i className="fa fa-share-alt"></i>
                                 <ul className="submenu">
-                                <li><Link to="/" className="facebook"><i className="fab fa-facebook-f"></i></Link></li>
-                                <li><Link to="/" className="facebook"><i className="fab fa-instagram"></i></Link></li>
-                                <li><Link to="/" className="facebook"><i className="fab fa-twitter"></i></Link></li>
+                                <li><Link className="facebook"><i className="fab fa-facebook-f"></i></Link></li>
+                                <li><Link className="facebook"><i className="fab fa-instagram"></i></Link></li>
+                                <li><Link className="facebook"><i className="fab fa-twitter"></i></Link></li>
                                 </ul>
                             </li>
                         </ul>
                         <div className="movie-actions--link_add-to-playlist dropdown">
-                            <Link to="/" className="dropdown-toggle" data-toggle="dropdown"><i
+                            <Link className="dropdown-toggle" data-toggle="dropdown"><i
                                 className="fa fa-plus"></i></Link>
                             <div className="dropdown-menu mCustomScrollbar">
                                 <div className="mCustomScrollBox">
                                 <div className="mCSB_container">
-                                    <Link className="login-link" to="/">Sign in to add this movie to a playlist.</Link>
+                                    <Link className="login-link" >Sign in to add this movie to a playlist.</Link>
                                 </div>
                                 </div>
                             </div>

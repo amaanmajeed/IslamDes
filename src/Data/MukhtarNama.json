@@ -1,42 +1,282 @@
 [
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 01/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "59:24", "videoid": "https://www.youtube.com/embed/xAQ1ANjj0ik?si=ajU6A9rbx4JDKRvB", "episode": "1"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 02/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "57:25", "videoid": "https://www.youtube.com/embed/l8wDKWwZg6M?si=ajU6A9rbx4JDKRvB", "episode": "2"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 03/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "50:48", "videoid": "https://www.youtube.com/embed/ZuOvHCI0DZs?si=ajU6A9rbx4JDKRvB", "episode": "3"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 04/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "57:31", "videoid": "https://www.youtube.com/embed/qr0W04t3AN4?si=ajU6A9rbx4JDKRvB", "episode": "4"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 05/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "55:07", "videoid": "https://www.youtube.com/embed/NgVzDCochdU?si=ajU6A9rbx4JDKRvB", "episode": "5"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 06/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "52:21", "videoid": "https://www.youtube.com/embed/oBKWOMUOU7g?si=ajU6A9rbx4JDKRvB", "episode": "6"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 07/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "53:48", "videoid": "https://www.youtube.com/embed/yFfkRO9i7j0?si=ajU6A9rbx4JDKRvB", "episode": "7"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 08/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "53:50", "videoid": "https://www.youtube.com/embed/gRYbsDuAF5Q?si=ajU6A9rbx4JDKRvB", "episode": "8"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 09/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "52:59", "videoid": "https://www.youtube.com/embed/v-QRMSwXj-k?si=ajU6A9rbx4JDKRvB", "episode": "9"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 10/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "51:43", "videoid": "https://www.youtube.com/embed/vHn36dRMxLs?si=ajU6A9rbx4JDKRvB", "episode": "10"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 11/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "55:43", "videoid": "https://www.youtube.com/embed/I-bEw0X48Bk?si=ajU6A9rbx4JDKRvB", "episode": "11"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 12/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "53:23", "videoid": "https://www.youtube.com/embed/5b8czhRJYjM?si=ajU6A9rbx4JDKRvB", "episode": "12"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 13/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "52:22", "videoid": "https://www.youtube.com/embed/i8gLMwMw2YA?si=ajU6A9rbx4JDKRvB", "episode": "13"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 14/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "55:01", "videoid": "https://www.youtube.com/embed/nrTZaxBCpU0?si=ajU6A9rbx4JDKRvB", "episode": "14"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 15/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "52:03", "videoid": "https://www.youtube.com/embed/YiQOBaSDRBY?si=ajU6A9rbx4JDKRvB", "episode": "15"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 16/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "55:36", "videoid": "https://www.youtube.com/embed/EHH6IQllRZ8?si=ajU6A9rbx4JDKRvB", "episode": "16"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 17/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "51:08", "videoid": "https://www.youtube.com/embed/6zVgt0FE7HY?si=ajU6A9rbx4JDKRvB", "episode": "17"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 18/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "54:17", "videoid": "https://www.youtube.com/embed/m9_TCnx4tbg?si=ajU6A9rbx4JDKRvB", "episode": "18"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 19/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "57:31", "videoid": "https://www.youtube.com/embed/PPLwjZ3Sa9s?si=ajU6A9rbx4JDKRvB", "episode": "19"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 20/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "53:09", "videoid": "https://www.youtube.com/embed/Wz7G2C8kKL0?si=ajU6A9rbx4JDKRvB", "episode": "20"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 21/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "57:17", "videoid": "https://www.youtube.com/embed/WrVDtISs_LE?si=ajU6A9rbx4JDKRvB", "episode": "21"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 22/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "56:06", "videoid": "https://www.youtube.com/embed/dGef5JsZuqw?si=ajU6A9rbx4JDKRvB", "episode": "22"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 23/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "54:34", "videoid": "https://www.youtube.com/embed/sp9Lhj9VsA4?si=ajU6A9rbx4JDKRvB", "episode": "23"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 24/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "51:46", "videoid": "https://www.youtube.com/embed/UcLn6LuousA?si=ajU6A9rbx4JDKRvB", "episode": "24"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 25/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "55:10", "videoid": "https://www.youtube.com/embed/sXM-jlIBZsc?si=ajU6A9rbx4JDKRvB", "episode": "25"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 26/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "52:07", "videoid": "https://www.youtube.com/embed/RiJ3lxj70hk?si=ajU6A9rbx4JDKRvB", "episode": "26"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 27/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "56:20", "videoid": "https://www.youtube.com/embed/NecdWWPyvUg?si=ajU6A9rbx4JDKRvB", "episode": "27"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 28/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "52:44", "videoid": "https://www.youtube.com/embed/maogPt-SvV8?si=ajU6A9rbx4JDKRvB", "episode": "28"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 29/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "52:59", "videoid": "https://www.youtube.com/embed/7HjbQ1bohLg?si=ajU6A9rbx4JDKRvB", "episode": "29"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 30/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "53:08", "videoid": "https://www.youtube.com/embed/OBXbNiJJNtc?si=ajU6A9rbx4JDKRvB", "episode": "30"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 31/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "53:50", "videoid": "https://www.youtube.com/embed/QJyKnnpbtyc?si=ajU6A9rbx4JDKRvB", "episode": "31"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 32/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "55:57", "videoid": "https://www.youtube.com/embed/Jl3DN0CjLCI?si=ajU6A9rbx4JDKRvB", "episode": "32"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 33/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "58:12", "videoid": "https://www.youtube.com/embed/a16_xApfpOo?si=ajU6A9rbx4JDKRvB", "episode": "33"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 34/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "55:59", "videoid": "https://www.youtube.com/embed/xEn4WWEPmhs?si=ajU6A9rbx4JDKRvB", "episode": "34"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 35/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "53:51", "videoid": "https://www.youtube.com/embed/j1f-e5NRdCQ?si=ajU6A9rbx4JDKRvB", "episode": "35"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 36/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "55:32", "videoid": "https://www.youtube.com/embed/kJ-vDi6cJQs?si=ajU6A9rbx4JDKRvB", "episode": "36"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 37/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "53:56", "videoid": "https://www.youtube.com/embed/QEG0h9zKeJs?si=ajU6A9rbx4JDKRvB", "episode": "37"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 38/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "53:41", "videoid": "https://www.youtube.com/embed/jbi3zNfFnro?si=ajU6A9rbx4JDKRvB", "episode": "38"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 39/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "49:55", "videoid": "https://www.youtube.com/embed/1NevVaTQFiQ?si=ajU6A9rbx4JDKRvB", "episode": "39"},
-    {"name": "Al-Mukhtar Al-Thaqafi - Part 40/40 - URDU - HD", "image": "http://localhost:3000/images/background/Mukhtarnama.png", "time": "52:19", "videoid": "https://www.youtube.com/embed/L9rl7unloqc?si=ajU6A9rbx4JDKRvB", "episode": "40"} 
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 01/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "59:24",
+        "videoid": "https://www.youtube.com/embed/xAQ1ANjj0ik?si=ajU6A9rbx4JDKRvB",
+        "episode": "1"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 02/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "57:25",
+        "videoid": "https://www.youtube.com/embed/l8wDKWwZg6M?si=ajU6A9rbx4JDKRvB",
+        "episode": "2"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 03/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "50:48",
+        "videoid": "https://www.youtube.com/embed/ZuOvHCI0DZs?si=ajU6A9rbx4JDKRvB",
+        "episode": "3"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 04/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "57:31",
+        "videoid": "https://www.youtube.com/embed/qr0W04t3AN4?si=ajU6A9rbx4JDKRvB",
+        "episode": "4"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 05/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "55:07",
+        "videoid": "https://www.youtube.com/embed/NgVzDCochdU?si=ajU6A9rbx4JDKRvB",
+        "episode": "5"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 06/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "52:21",
+        "videoid": "https://www.youtube.com/embed/oBKWOMUOU7g?si=ajU6A9rbx4JDKRvB",
+        "episode": "6"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 07/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "53:48",
+        "videoid": "https://www.youtube.com/embed/yFfkRO9i7j0?si=ajU6A9rbx4JDKRvB",
+        "episode": "7"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 08/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "53:50",
+        "videoid": "https://www.youtube.com/embed/gRYbsDuAF5Q?si=ajU6A9rbx4JDKRvB",
+        "episode": "8"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 09/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "52:59",
+        "videoid": "https://www.youtube.com/embed/v-QRMSwXj-k?si=ajU6A9rbx4JDKRvB",
+        "episode": "9"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 10/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "51:43",
+        "videoid": "https://www.youtube.com/embed/vHn36dRMxLs?si=ajU6A9rbx4JDKRvB",
+        "episode": "10"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 11/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "55:43",
+        "videoid": "https://www.youtube.com/embed/I-bEw0X48Bk?si=ajU6A9rbx4JDKRvB",
+        "episode": "11"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 12/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "53:23",
+        "videoid": "https://www.youtube.com/embed/5b8czhRJYjM?si=ajU6A9rbx4JDKRvB",
+        "episode": "12"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 13/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "52:22",
+        "videoid": "https://www.youtube.com/embed/i8gLMwMw2YA?si=ajU6A9rbx4JDKRvB",
+        "episode": "13"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 14/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "55:01",
+        "videoid": "https://www.youtube.com/embed/nrTZaxBCpU0?si=ajU6A9rbx4JDKRvB",
+        "episode": "14"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 15/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "52:03",
+        "videoid": "https://www.youtube.com/embed/YiQOBaSDRBY?si=ajU6A9rbx4JDKRvB",
+        "episode": "15"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 16/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "55:36",
+        "videoid": "https://www.youtube.com/embed/EHH6IQllRZ8?si=ajU6A9rbx4JDKRvB",
+        "episode": "16"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 17/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "51:08",
+        "videoid": "https://www.youtube.com/embed/6zVgt0FE7HY?si=ajU6A9rbx4JDKRvB",
+        "episode": "17"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 18/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "54:17",
+        "videoid": "https://www.youtube.com/embed/m9_TCnx4tbg?si=ajU6A9rbx4JDKRvB",
+        "episode": "18"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 19/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "57:31",
+        "videoid": "https://www.youtube.com/embed/PPLwjZ3Sa9s?si=ajU6A9rbx4JDKRvB",
+        "episode": "19"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 20/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "53:09",
+        "videoid": "https://www.youtube.com/embed/Wz7G2C8kKL0?si=ajU6A9rbx4JDKRvB",
+        "episode": "20"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 21/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "57:17",
+        "videoid": "https://www.youtube.com/embed/WrVDtISs_LE?si=ajU6A9rbx4JDKRvB",
+        "episode": "21"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 22/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "56:06",
+        "videoid": "https://www.youtube.com/embed/dGef5JsZuqw?si=ajU6A9rbx4JDKRvB",
+        "episode": "22"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 23/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "54:34",
+        "videoid": "https://www.youtube.com/embed/sp9Lhj9VsA4?si=ajU6A9rbx4JDKRvB",
+        "episode": "23"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 24/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "51:46",
+        "videoid": "https://www.youtube.com/embed/UcLn6LuousA?si=ajU6A9rbx4JDKRvB",
+        "episode": "24"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 25/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "55:10",
+        "videoid": "https://www.youtube.com/embed/sXM-jlIBZsc?si=ajU6A9rbx4JDKRvB",
+        "episode": "25"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 26/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "52:07",
+        "videoid": "https://www.youtube.com/embed/RiJ3lxj70hk?si=ajU6A9rbx4JDKRvB",
+        "episode": "26"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 27/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "56:20",
+        "videoid": "https://www.youtube.com/embed/NecdWWPyvUg?si=ajU6A9rbx4JDKRvB",
+        "episode": "27"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 28/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "52:44",
+        "videoid": "https://www.youtube.com/embed/maogPt-SvV8?si=ajU6A9rbx4JDKRvB",
+        "episode": "28"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 29/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "52:59",
+        "videoid": "https://www.youtube.com/embed/7HjbQ1bohLg?si=ajU6A9rbx4JDKRvB",
+        "episode": "29"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 30/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "53:08",
+        "videoid": "https://www.youtube.com/embed/OBXbNiJJNtc?si=ajU6A9rbx4JDKRvB",
+        "episode": "30"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 31/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "53:50",
+        "videoid": "https://www.youtube.com/embed/QJyKnnpbtyc?si=ajU6A9rbx4JDKRvB",
+        "episode": "31"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 32/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "55:57",
+        "videoid": "https://www.youtube.com/embed/Jl3DN0CjLCI?si=ajU6A9rbx4JDKRvB",
+        "episode": "32"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 33/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "58:12",
+        "videoid": "https://www.youtube.com/embed/a16_xApfpOo?si=ajU6A9rbx4JDKRvB",
+        "episode": "33"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 34/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "55:59",
+        "videoid": "https://www.youtube.com/embed/xEn4WWEPmhs?si=ajU6A9rbx4JDKRvB",
+        "episode": "34"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 35/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "53:51",
+        "videoid": "https://www.youtube.com/embed/j1f-e5NRdCQ?si=ajU6A9rbx4JDKRvB",
+        "episode": "35"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 36/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "55:32",
+        "videoid": "https://www.youtube.com/embed/kJ-vDi6cJQs?si=ajU6A9rbx4JDKRvB",
+        "episode": "36"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 37/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "53:56",
+        "videoid": "https://www.youtube.com/embed/QEG0h9zKeJs?si=ajU6A9rbx4JDKRvB",
+        "episode": "37"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 38/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "53:41",
+        "videoid": "https://www.youtube.com/embed/jbi3zNfFnro?si=ajU6A9rbx4JDKRvB",
+        "episode": "38"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 39/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "49:55",
+        "videoid": "https://www.youtube.com/embed/1NevVaTQFiQ?si=ajU6A9rbx4JDKRvB",
+        "episode": "39"
+    },
+    {
+        "name": "Al-Mukhtar Al-Thaqafi - Part 40/40 - URDU - HD",
+        "image": "images/background/Mukhtarnama.png",
+        "time": "52:19",
+        "videoid": "https://www.youtube.com/embed/L9rl7unloqc?si=ajU6A9rbx4JDKRvB",
+        "episode": "40"
+    }
 ]

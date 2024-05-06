@@ -7,8 +7,8 @@ import OwlItem from './OwlItem';
 export default function MyOwlCarousel() {
    const OwlList = [
       {
-         image: "http://localhost:3000/images/background/The_Message.png",
-         play: "http://localhost:3000/video/Movies/Muhammad",
+         image: "images/background/The_Message.png",
+         play: "video/Movies/Muhammad",
          tagLine: "Top Rated",
          name: "The Message",
          rating: "16+",
@@ -19,8 +19,8 @@ export default function MyOwlCarousel() {
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
-         image: "http://localhost:3000/images/background/omer.png",
-         play: "http://localhost:3000/video/Omer/1",
+         image: "images/background/omer.png",
+         play: "video/Omer/1",
          tagLine: "Most Viewed",
          name: "Omer Series",
          rating: "16+",
@@ -31,8 +31,8 @@ export default function MyOwlCarousel() {
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
-         image: "http://localhost:3000/images/background/Aliposter.png",
-         play: "http://localhost:3000/video/Ali/1",
+         image: "images/background/Aliposter.png",
+         play: "video/Ali/1",
          tagLine: "Most Viewed",
          name: "Ali Series",
          rating: "16+",
@@ -43,8 +43,8 @@ export default function MyOwlCarousel() {
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
-         image: "http://localhost:3000/images/background/Joseph.png",
-         play: "http://localhost:3000/video/Yousuf/1",
+         image: "images/background/Joseph.png",
+         play: "video/Yousuf/1",
          tagLine: "Most Viewed",
          name: "Yousuf Series",
          rating: "16+",
@@ -55,8 +55,8 @@ export default function MyOwlCarousel() {
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
-         image: "http://localhost:3000/images/background/Esa.png",
-         play: "http://localhost:3000/video/Esa/1",
+         image: "images/background/Esa.png",
+         play: "video/Esa/1",
          tagLine: "Most Viewed",
          name: "Esa Series",
          rating: "16+",
@@ -67,8 +67,8 @@ export default function MyOwlCarousel() {
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
-         image: "http://localhost:3000/images/background/Mukhtarnama.png",
-         play: "http://localhost:3000/video/MukhtarNama/1",
+         image: "images/background/Mukhtarnama.png",
+         play: "video/MukhtarNama/1",
          tagLine: "Most Viewed",
          name: "Mukhtar Nama",
          rating: "16+",
@@ -79,8 +79,8 @@ export default function MyOwlCarousel() {
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
-         image: "http://localhost:3000/images/background/Ashab.jpg",
-         play: "http://localhost:3000/video/Ashab/1",
+         image: "images/background/Ashab.jpg",
+         play: "video/Ashab/1",
          tagLine: "Most Viewed",
          name: "Ashab e Kahaf",
          rating: "16+",
@@ -91,8 +91,8 @@ export default function MyOwlCarousel() {
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
-         image: "http://localhost:3000/images/background/hazrat_ibrahim.png",
-         play: "http://localhost:3000/video/Movies/Ibrahim",
+         image: "images/background/hazrat_ibrahim.png",
+         play: "video/Movies/Ibrahim",
          tagLine: "Best of All",
          name: "Hazrat Ibrahim",
          rating: "16+",
@@ -103,8 +103,8 @@ export default function MyOwlCarousel() {
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
-         image: "http://localhost:3000/images/background/Hazrat_Mosa.jpg",
-         play: "http://localhost:3000/video/Movies/Musa",
+         image: "images/background/Hazrat_Mosa.jpg",
+         play: "video/Movies/Musa",
          tagLine: "Top Rated",
          name: "Hazrat Musa",
          rating: "16+",
@@ -115,8 +115,8 @@ export default function MyOwlCarousel() {
          tag: "Historical Biopic, Faith, Spiritual Exploration"
       },
       {
-         image: "http://localhost:3000/images/background/Hazrat_Salman.jpg",
-         play: "http://localhost:3000/video/Movies/Suleiman",
+         image: "images/background/Hazrat_Salman.jpg",
+         play: "video/Movies/Suleiman",
          tagLine: "Top Rated",
          name: "Hazrat Sulaiman",
          rating: "16+",

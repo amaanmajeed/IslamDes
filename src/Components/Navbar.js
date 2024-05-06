@@ -18,7 +18,7 @@ export default function Navbar() {
                 <div className="col-lg-12">
                     <nav className="navbar navbar-expand-lg navbar-light">
                         <Link className="navbar-brand d-flex align-items-center" to="http://localhost:3000">
-                            <img src="http://localhost:3000/images/favicon.png" alt="Logo" />
+                            <img src="images/favicon.png" alt="Logo" />
                             <h4 className='px-3'>IslamDes</h4>
                         </Link>
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">

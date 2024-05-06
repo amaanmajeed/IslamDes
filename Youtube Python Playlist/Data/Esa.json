@@ -1,0 +1,19 @@
+[
+    {"name": "Esa Ep 01", "image": "../images/background/asset-5.jpg", "time": "35:53", "videoid": "https://www.youtube.com/watch?v=AYdLB2ejhkM", "episode": "E01"},
+    {"name": "Esa Ep 02", "image": "../images/background/asset-5.jpg", "time": "35:52", "videoid": "https://www.youtube.com/watch?v=0b0h_f9kJ8c", "episode": "E02"},
+    {"name": "Esa Ep 03", "image": "../images/background/asset-5.jpg", "time": "34:32", "videoid": "https://www.youtube.com/watch?v=-9mQYbbLEEw", "episode": "E03"},
+    {"name": "Esa Ep 04", "image": "../images/background/asset-5.jpg", "time": "40:33", "videoid": "https://www.youtube.com/watch?v=17-GbdowGI8", "episode": "E04"},
+    {"name": "Esa Ep 05", "image": "../images/background/asset-5.jpg", "time": "33:19", "videoid": "https://www.youtube.com/watch?v=lT2SKIooVLk", "episode": "E05"},
+    {"name": "Esa Ep 06", "image": "../images/background/asset-5.jpg", "time": "36:11", "videoid": "https://www.youtube.com/watch?v=NYpn5bZo1_g", "episode": "E06"},
+    {"name": "Esa Ep 07", "image": "../images/background/asset-5.jpg", "time": "36:45", "videoid": "https://www.youtube.com/watch?v=BjP9XuKMmcE", "episode": "E07"},
+    {"name": "Esa Ep 08", "image": "../images/background/asset-5.jpg", "time": "30:03", "videoid": "https://www.youtube.com/watch?v=sjKQdGyvUhY", "episode": "E08"},
+    {"name": "Esa Ep 09", "image": "../images/background/asset-5.jpg", "time": "45:30", "videoid": "https://www.youtube.com/watch?v=vIXqnNS34AY", "episode": "E09"},
+    {"name": "Esa Ep 10", "image": "../images/background/asset-5.jpg", "time": "34:04", "videoid": "https://www.youtube.com/watch?v=Q2oOpBLYh4c", "episode": "E10"},
+    {"name": "Esa Ep 11", "image": "../images/background/asset-5.jpg", "time": "43:08", "videoid": "https://www.youtube.com/watch?v=pX1yBSPO7qg", "episode": "E11"},
+    {"name": "Esa Ep 12", "image": "../images/background/asset-5.jpg", "time": "38:22", "videoid": "https://www.youtube.com/watch?v=G5SrZrBQmog", "episode": "E12"},
+    {"name": "Esa Ep 13", "image": "../images/background/asset-5.jpg", "time": "40:32", "videoid": "https://www.youtube.com/watch?v=Xade56cGhKI", "episode": "E13"},
+    {"name": "Esa Ep 14", "image": "../images/background/asset-5.jpg", "time": "43:20", "videoid": "https://www.youtube.com/watch?v=brnG2K5UB8A", "episode": "E14"},
+    {"name": "Esa Ep 15", "image": "../images/background/asset-5.jpg", "time": "41:11", "videoid": "https://www.youtube.com/watch?v=Pfianhneuno", "episode": "E15"},
+    {"name": "Esa Ep 16", "image": "../images/background/asset-5.jpg", "time": "40:31", "videoid": "https://www.youtube.com/watch?v=HUY_4SWRZm4", "episode": "E16"},
+    {"name": "Esa Ep 17", "image": "../images/background/asset-5.jpg", "time": "36:51", "videoid": "https://www.youtube.com/watch?v=MlhhaQ_MKxg", "episode": "E17"} 
+]

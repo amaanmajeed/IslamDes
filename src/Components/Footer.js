@@ -15,7 +15,7 @@ export default function Footer() {
                         <div className="row">
                            <div className="col-sm-12">
                               <div className="navbar-brand d-flex align-items-center">
-                                 <img className='footer-logo' src="http://localhost:3000/images/favicon.png" alt="Logo" />
+                                 <img className='footer-logo' src="images/favicon.png" alt="Logo" />
                                  <h4 className='px-3'>IslamDes</h4>
                               </div>
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
@@ -74,10 +74,10 @@ export default function Footer() {
                            <div className="col-sm-12">
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                               <Link to="/">
-                                 <img src="http://localhost:3000/images/Playstore.png" className="gen-playstore-logo" alt="playstore"/>
+                                 <img src="images/Playstore.png" className="gen-playstore-logo" alt="playstore"/>
                               </Link>
                               <Link to="/">
-                                 <img src="http://localhost:3000/images/AppStore.png" className="gen-appstore-logo" alt="appstore"/>
+                                 <img src="images/AppStore.png" className="gen-appstore-logo" alt="appstore"/>
                               </Link>
                            </div>
                         </div>
