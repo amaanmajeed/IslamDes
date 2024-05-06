@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import { IMAGES_URL } from '../config/Config';
 
 export default function Navbar() {
     const location = useLocation();
@@ -17,7 +18,7 @@ export default function Navbar() {
                 <div className="row">
                 <div className="col-lg-12">
                     <nav className="navbar navbar-expand-lg navbar-light">
-                        <Link className="navbar-brand d-flex align-items-center" to="http://localhost:3000">
+                                    <Link className="navbar-brand d-flex align-items-center" to={IMAGES_URL}>
                             <img src="images/favicon.png" alt="Logo" />
                             <h4 className='px-3'>IslamDes</h4>
                         </Link>
