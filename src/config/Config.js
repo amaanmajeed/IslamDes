@@ -2,7 +2,7 @@
 const API_BASE_URL = "https://api.example.com";
 const WEBSITE_BASE_URL = "https://islam-des.vercel.app/";
 
-export const IMAGES_URL = "http://localhost:3000/images/";
+export const IMAGES_URL = "https://islam-des.vercel.app/images/";
 
 
 

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { IMAGES_URL } from '../config/Config';
 
 export default function SliderItem(props) {
     
@@ -8,10 +9,7 @@ export default function SliderItem(props) {
         <div className="gen-carousel-movies-style-2 movie-grid style-2">
           <div className="gen-movie-contain">
             <div className="gen-movie-img">
-              <img
-                src={WEBSITE_BASE_URL + props.image}
-                alt="owl-carousel-video"
-              />
+              <img src={IMAGES_URL + props.image} alt="owl-carousel-video" />
               <div className="gen-movie-action">
                 <div className="gen-button">
                   <i className="fa fa-play"></i>

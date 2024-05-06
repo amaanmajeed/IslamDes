@@ -1,12 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { IMAGES_URL } from '../config/Config';
 
 export default function MovieBanner(props) {
   return (
     <div className="gen-carousel-movies-style-3 movie-grid style-3">
       <div className="gen-movie-contain">
         <div className="gen-movie-img">
-          <img src={WEBSITE_BASE_URL + props.image} alt="single-video" />
+          <img src={IMAGES_URL + props.image} alt="single-video" />
           {/* <div className="gen-movie-add">
                         <div className="wpulike wpulike-heart">
                             <div className="wp_ulike_general_class">

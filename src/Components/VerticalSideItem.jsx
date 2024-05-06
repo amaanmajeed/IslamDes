@@ -1,11 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { IMAGES_URL } from '../config/Config';
 
 export default function VerticalSideItem(props) {
   return (
     <div className="slider-nav-contain">
       <div className="gen-nav-img">
-        <img src={WEBSITE_BASE_URL + props.image} alt="steamlab" />
+        <img src={IMAGES_URL + props.image} alt="steamlab" />
       </div>
       <div className="movie-info">
         <h3>{props.name}</h3>

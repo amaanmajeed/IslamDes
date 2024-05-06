@@ -1,4 +1,4 @@
-const WEBSITE_BASE_URL = "http://localhost:3000/";
+const WEBSITE_BASE_URL = "https://islam-des.vercel.app/";
 
 export const StaticUrls = {
     IMAGES_URL: WEBSITE_BASE_URL + "images/",

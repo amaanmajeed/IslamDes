@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { IMAGES_URL } from '../config/Config';
 
 export default function OwlItem(props) {
     console.log("props.play", props.play)
@@ -7,17 +8,14 @@ export default function OwlItem(props) {
   return (
     <div
       className="item"
-      style={{ background: `url(${WEBSITE_BASE_URL + props.image})` }}
+      style={{ background: `url(${IMAGES_URL + props.image})` }}
     >
       <div className="gen-movie-contain-style-2 h-100">
         <div className="container h-100">
           <div className="row flex-row-reverse align-items-center h-100">
             <div className="col-xl-6">
               <div className="gen-front-image">
-                <img
-                  src={WEBSITE_BASE_URL + props.image}
-                  alt="owl-carousel-banner"
-                />
+                <img src={IMAGES_URL + props.image} alt="owl-carousel-banner" />
                 <Link
                   to={props.play}
                   className="playBut popup-youtube popup-vimeo popup-gmaps"
