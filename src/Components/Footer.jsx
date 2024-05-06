@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+import { StaticUrls } from '../utils/constants';
+
 export default function Footer() {
   return (
       <>
@@ -15,7 +17,11 @@ export default function Footer() {
                         <div className="row">
                            <div className="col-sm-12">
                               <div className="navbar-brand d-flex align-items-center">
+<<<<<<< HEAD:src/Components/Footer.js
                                  <img className='footer-logo' src="images/favicon.png" alt="Logo" />
+=======
+                                 <img className='footer-logo' src={`${StaticUrls.IMAGES_URL}` + 'favicon.png'} alt="Logo" />
+>>>>>>> db198fcefa13b14ec7bbfbb5f194c60c40e77f1a:src/Components/Footer.jsx
                                  <h4 className='px-3'>IslamDes</h4>
                               </div>
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
@@ -34,10 +40,7 @@ export default function Footer() {
                         <h4 className="footer-title">Explore</h4>
                         <div className="menu-explore-container">
                            <ul className="menu">
-                              <li className="menu-item">
-                                 {/* <Link to="index.html" aria-current="page">Home</Link> */}
-                                 <Link to="/video/Omer/1">Home</Link>
-                              </li>
+                              <li className="menu-item"><Link to="/video/Omer/1">Home</Link></li>
                               <li className="menu-item"><Link to="/video/Omer/1">Movies</Link></li>
                               <li className="menu-item"><Link to="/video/Omer/1">Tv</Link></li>
                               <li className="menu-item"><Link to="/video/Omer/1">Videos</Link></li>
